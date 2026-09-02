@@ -9,6 +9,9 @@ context/
   Code.gs       기존 국방 AI 브리핑 웹앱 (브리핑 양식 원본)
 scripts/
   run_weekly.md 클라우드 예약 에이전트 실행 플레이북
+  routine_prompt.md 루틴 프롬프트 원본
+vendor/
+  public-doc-to-hwpx/  HWPX 빌더 스킬 (github.com/Kminer2053/public-doc-to-hwpx v3.6.11 벤더링)
 outputs/
   <YYYY-Www>/   주차별 산출물
     news.json     기사 목록 (구조화)
@@ -19,7 +22,7 @@ outputs/
 
 ## 자동화
 - 클라우드 루틴이 매주 `context/scope.md` + `scripts/run_weekly.md` 대로 실행.
-- HWPX 는 `public-doc-to-hwpx` 스킬 repo(별도 소스로 클론)의 `scripts/build_full.py` 로 빌드.
+- HWPX 는 `vendor/public-doc-to-hwpx/scripts/build_full.py` 로 빌드.
 
 ## 수집 이력
 

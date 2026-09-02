@@ -27,20 +27,19 @@
 - `### 모니터링 대상 (7일 창 밖)`
 `outputs/<YYYY-Www>/briefing.md` 저장.
 
-## 4. HWPX 생성 (public-doc-to-hwpx 스킬)
-스킬 repo 는 별도 소스로 클론되어 있다(경로: 작업공간 내 `public-doc-to-hwpx/`).
+## 4. HWPX 생성 (public-doc-to-hwpx 스킬 — repo 내 vendor)
+스킬은 이 repo 안 `vendor/public-doc-to-hwpx/` 에 포함되어 있다.
 1. `outputs/2026-W36/values.json` 을 템플릿 삼아 이번 주 `values.json` 을 만든다.
    - 6장 구조: Ⅰ.수집 개요 / Ⅱ.미국 국방 AI / Ⅲ.AI 무인기·자율무기 / Ⅳ.주요국 정책·규범 / Ⅴ.기술 R&D / Ⅵ.한국 안보 시사점
    - 마커 규칙: `본문_항목_001~009` 는 마커 없이 텍스트만, `본문_항목_010~012` 는 `  ◦ ` 직접 표기.
    - 목차 페이지번호는 아무 값이나 두면 빌더가 자동 계산.
-2. 빌드:
+2. 빌드 (repo 루트에서):
    ```bash
-   cd public-doc-to-hwpx
-   PYTHONIOENCODING=utf-8 PYTHONUTF8=1 python scripts/build_full.py \
-     --values ../outputs/<YYYY-Www>/values.json \
-     --output ../outputs/<YYYY-Www>/briefing.hwpx
+   PYTHONIOENCODING=utf-8 PYTHONUTF8=1 python vendor/public-doc-to-hwpx/scripts/build_full.py \
+     --values outputs/<YYYY-Www>/values.json \
+     --output outputs/<YYYY-Www>/briefing.hwpx
    ```
-   (`python3` 아님 주의 — 환경에 따라 `python`)
+   (`python3` 아님 주의 — 환경에 따라 `python`. build_full.py 는 스킬 폴더 기준 상대경로로 템플릿을 찾으므로 `--values`/`--output` 은 절대경로 또는 위처럼 repo 루트 기준으로 준다.)
 3. `[validate] 검증 통과` 로그 확인.
 
 ## 5. 커밋
