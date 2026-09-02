@@ -28,4 +28,4 @@ outputs/
 
 | 주차 | 수집일 | 창 | 건수 | 산출물 |
 |------|--------|-----|------|--------|
-| 2026-W36 | 2026-09-02 | 08-26 ~ 09-02 | 10 | [news](outputs/2026-W36/news.json) · [briefing](outputs/2026-W36/briefing.md) · [hwpx](outputs/2026-W36/briefing.hwpx) |
+| 2026-W36 | 2026-09-02 | 08-27 ~ 09-02 | 12 | [news](outputs/2026-W36/news.json) · [briefing](outputs/2026-W36/briefing.md) · [hwpx](outputs/2026-W36/briefing.hwpx) |
