@@ -6,7 +6,7 @@
 ## 수집 창
 - 실행일 기준 **정확히 최근 7일** (예: 실행일이 일요일이면 지난 월요일~해당 일요일).
 - 날짜가 불명확한 기사는 제외한다.
-- 각 항목에 보도일자(YYYY-MM-DD)를 반드시 명시한다.
+- 각 항목에 보도일자(YYYY-MM-DD)와 원문 URL을 반드시 명시한다.
 - 7일 창 밖이지만 후속 모니터링이 필요한 기사는 별도 섹션("모니터링 대상")에 분리한다.
 
 ## 카테고리 (5분류 — Code.gs 브리핑 양식 기준)
@@ -28,10 +28,19 @@
 - `국방 AI 자율무기 뉴스 <연/월>`
 - (매체 직접 확인) DefenseScoop, Breaking Defense, Defense One, The Defense Post, C4ISRNET, 연합뉴스
 
-## 산출물 3종
-1. **기사 목록** — `outputs/YYYY-Www/news.json` (아래 스키마) + README에 표.
-2. **마크다운 브리핑** — `outputs/YYYY-Www/briefing.md` (분석 + 한국 안보 시사점 포함).
-3. **풀버전 HWPX 보고서** — `outputs/YYYY-Www/briefing.hwpx` (public-doc-to-hwpx 스킬).
+## 산출물 3종 (파일명에 생성날짜 = `collected_at` 포함)
+`<DATE>` = 실행일(KST, `YYYY-MM-DD`). 모두 `outputs/<YYYY-Www>/` 폴더 안에 저장.
+1. **기사 목록** — `news_<DATE>.json` (아래 스키마) + README에 표.
+2. **마크다운 브리핑** — `briefing_<DATE>.md` (분석 + 근거·출처 + 한국 안보 시사점).
+3. **풀버전 HWPX 보고서** — `briefing_<DATE>.hwpx` (public-doc-to-hwpx 스킬).
+4. (보조) HWPX 빌더 입력 — `values_<DATE>.json`.
+
+## 근거·출처 명시 원칙 (필수)
+- **모든 기사 항목**에 `outlet`(매체) · `date`(보도일) · `url`(원문 링크) · `evidence`(근거: 직접 인용 또는 핵심 수치)를 남긴다.
+- 브리핑의 **핵심 요약·시사점 등 모든 주장**은 근거가 되는 항목 번호(`[§n]`)로 추적 가능해야 한다.
+- 클라우드 환경은 `WebFetch` 외부 접속이 차단되므로 `evidence` 는 WebSearch 결과 스니펫에서 인용한다.
+  원문 본문을 확인하지 못한 경우 `evidence` 끝에 `(스니펫 기준, 원문 미검증)` 을 붙인다.
+- 브리핑 말미 `## 주요 출처` 의 번호는 본문 각주 번호와 일치시킨다.
 
 ## news.json 스키마
 ```json
@@ -45,10 +54,11 @@
       "category": 1,
       "region": "미국",
       "title": "...",
-      "outlet": "...",
+      "outlet": "매체명",
       "date": "YYYY-MM-DD",
       "url": "https://...",
       "summary": "1~2문장",
+      "evidence": "직접 인용 또는 핵심 수치 (필요 시 '(스니펫 기준, 원문 미검증)')",
       "why_it_matters": "시사점 1문장"
     }
   ],
