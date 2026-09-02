@@ -1,0 +1,148 @@
+{
+  "briefing_id": "defense-ai-2026-W36",
+  "collected_at": "2026-09-02",
+  "window": { "from": "2026-08-26", "to": "2026-09-02" },
+  "scope": "전 세계 · 국방 AI / 자율무인체계 (Code.gs 카테고리 기준)",
+  "categories": [
+    "1. 미국 국방 AI 프로그램",
+    "2. AI 무인기 / 자율무기체계",
+    "3. 전장 드론 사례",
+    "4. 주요국 정책 & 투자",
+    "5. 기술 R&D 동향"
+  ],
+  "items": [
+    {
+      "id": 1,
+      "category": 1,
+      "region": "미국",
+      "title": "Pentagon, GenAI.mil 플랫폼에 ChatGPT·Grok 추가 — 300만 군·민간 인력에 개방",
+      "outlet": "Fortune / Federal News Network / The Hill",
+      "date": "2026-09-01",
+      "url": "https://fortune.com/2026/09/01/pentagon-chatgpt-grok-government-military-ai-members-pete-hegseth-defense-department/",
+      "summary": "국방부가 비밀 등급 이하 업무용으로 OpenAI ChatGPT(문서 판독·행정·정책)와 xAI Grok(시장조사·공급망 등 운영지원)을 GenAI.mil에 추가. 작년 첫 도입된 Google Gemini 포함 3종 체제, 누적 170만+ 가입.",
+      "why_it_matters": "미군의 'AI-first' 전환 가속. 상용 LLM의 국방 일상업무 편입 속도가 한국 국방 AI 도입 로드맵의 벤치마크."
+    },
+    {
+      "id": 2,
+      "category": 2,
+      "region": "미국",
+      "title": "美 해군, 첫 증분(Increment 1) CCA(협동전투기) 드론 사업 착수 — 항모 탑재형 로열윙맨 RFI",
+      "outlet": "DefenseScoop",
+      "date": "2026-09-01",
+      "url": "https://defensescoop.com/2026/09/01/navy-kicks-off-search-for-first-increment-of-cca-drones/",
+      "summary": "해군이 항모 운용 가능한 무인 협동전투기 프로토타입 아이디어를 산업계에 요청. 공군(General Atomics YFQ-42A, Anduril YFQ-44A)에 이은 해군판 유·무인 팀잉 본격화.",
+      "why_it_matters": "유인기+자율 무인 wingman 조합이 미 공군·해군 양측 표준으로 확산. 한국 KF-21 기반 유무인복합체계(MUM-T) 방향성과 직접 비교 대상."
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "region": "미국",
+      "title": "美 정보공동체의 AI·사이버 전망 — DoDIIS 콘퍼런스, '에이전트 네트워크' 대비",
+      "outlet": "Breaking Defense",
+      "date": "2026-09-01",
+      "url": "https://breakingdefense.com/2026/09/the-defense-intelligence-communitys-ai-and-cyber-view-forward/",
+      "summary": "DoDIIS Worldwide에서 정보당국이 정보분석~사이버까지 자율 AI 에이전트 도입 계획 공개. 신뢰·신원·인간 감독(human oversight) 문제를 핵심 쟁점으로 제시.",
+      "why_it_matters": "'AI 에이전트 다수가 협업하는' 정보전 구조로 이동. 신원·감독 거버넌스가 기술만큼 중요해짐."
+    },
+    {
+      "id": 4,
+      "category": 1,
+      "region": "미국",
+      "title": "국방부, Dataminr에 3.18억 달러 계약 — AI 기반 공개정보(PAI) 경보 시스템 'A2'",
+      "outlet": "DefenseScoop",
+      "date": "2026-08-27",
+      "url": "https://defensescoop.com/2026/08/27/pentagon-awards-dataminr-318m-contract/",
+      "summary": "공개출처정보(OSINT)를 AI로 실시간 선별·경보하는 A2 Publicly Available Information Alerting 프로그램에 Dataminr 선정, 5년 규모 3억1,800만 달러.",
+      "why_it_matters": "OSINT 자동 경보의 대형 예산화. 국방 AI 브리핑(본 프로젝트)이 겨냥하는 바로 그 활용영역."
+    },
+    {
+      "id": 5,
+      "category": 4,
+      "region": "글로벌 / UN",
+      "title": "구테흐스 UN 사무총장·ICRC 총재, 치명적 자율무기(LAWS) 규제 조약 촉구 재확인",
+      "outlet": "UN News / ScheerPost",
+      "date": "2026-08-28",
+      "url": "https://news.un.org/en/story/2026/08/1168196",
+      "summary": "전장에서 완전자율·AI유도 드론 사용 정황 보도가 이어지자 UN·적십자가 8월 25일 공동성명으로 2026년까지 구속력 있는 국제규범 채택을 재차 요구. 자율무기의 표적 선정·교전 제한이 핵심.",
+      "why_it_matters": "규범 논의가 '금지'에서 '실효적 제한'으로 이동. 한국 국방인공지능법 제정 논의(고위험 군사 AI 규율)와 맞물림."
+    },
+    {
+      "id": 6,
+      "category": 3,
+      "region": "러시아-우크라이나",
+      "title": "논평: '치명적 AI 드론에 고삐를 채울 때' — 우크라이나전 자율표적 확산 경고",
+      "outlet": "The Intercept",
+      "date": "2026-08-26",
+      "url": "https://theintercept.com/2026/08/26/ai-drone-warfare-russia-ukraine-openai-anthropic/",
+      "summary": "우크라이나가 전자전 저항성·자율표적 기능을 갖춘 AI 드론으로 전선 후방 150km까지 타격. AI 드론은 인간 조종 대비 명중률 3~4배라는 현장 연구를 인용하며 규범 공백을 지적.",
+      "why_it_matters": "실전 데이터로 검증된 자율표적의 군사적 효용 → 확산 압력. 규제론과 효용론의 정면 충돌 국면."
+    },
+    {
+      "id": 7,
+      "category": 4,
+      "region": "한국",
+      "title": "드론부터 국방 AI까지… 무인이동체, 민군협력의 새 축으로 (무인이동체 X 민군협력 엑스포, 코엑스 8/25–27)",
+      "outlet": "연합뉴스(다음)",
+      "date": "2026-08-26",
+      "url": "https://v.daum.net/v/20260826085717496",
+      "summary": "정부가 AI 발전주기(3~6개월)를 고려해 국방 AI 도입 기간을 전통 무기획득(10년+) 대비 대폭 단축 추진. 민간 첨단기술의 신속 국방 이전을 제도화.",
+      "why_it_matters": "한국형 신속획득 체계의 방향 제시. 본 프로젝트의 국내 축 기사."
+    },
+    {
+      "id": 8,
+      "category": 5,
+      "region": "한국 / 미국",
+      "title": "\"자율 공장서 무기 제조·검증, 하룻밤 1,000개\"…美 전문가 \"미래 국방 게임체인저는 기술보다 '속도'\"",
+      "outlet": "헬로디디",
+      "date": "2026-08-27",
+      "url": "https://www.hellodd.com/news/articleView.html?idxno=112040",
+      "summary": "민군협력 엑스포 기조에서 자율 제조·자동 검증으로 무기 양산 속도를 극대화하는 '어질 디펜스' 개념 제시. 대량 저비용 무인체계 생산이 억지력의 핵심이라는 주장.",
+      "why_it_matters": "물량·속도 중심 방위산업 패러다임. 한국 방산 수출·양산 경쟁력 논의와 연결."
+    },
+    {
+      "id": 9,
+      "category": 5,
+      "region": "미국",
+      "title": "카네기 보고서: 미군의 AI 확산을 가로막는 장벽",
+      "outlet": "Carnegie Endowment for International Peace",
+      "date": "2026-08-28",
+      "url": "https://carnegieendowment.org/research/2026/08/confronting-the-barriers-to-ai-diffusion-in-the-us-military",
+      "summary": "예산·전략이 아니라 데이터 접근성, 조달 관성, 인력·문화가 실제 병목이라는 분석. 2026 DoD AI 전략의 'Pace-Setting Projects'가 이를 겨냥.",
+      "why_it_matters": "도입 정책이 아니라 '확산(diffusion)'이 관건이라는 프레임. 한국도 동일 병목 가능."
+    },
+    {
+      "id": 10,
+      "category": 2,
+      "region": "유럽 / 우크라이나",
+      "title": "EU-우크라이나 '드론 딜' 창립회의 9월 브뤼셀 개최 예정 — 공동생산·대드론 10억 유로",
+      "outlet": "EU NEIGHBOURS east",
+      "date": "2026-08-27",
+      "url": "https://euneighbourseast.eu/news/latest-news/eu-launches-ukraine-defence-industrial-partnership-drone-deal-and-disburses-e1-billion-for-drones/",
+      "summary": "EU가 우크라이나와 드론·대드론 공동생산 파트너십 출범, 10억 유로 집행. 18개 창립 회원국 첫 회의 9월 브뤼셀 예정.",
+      "why_it_matters": "유럽의 드론 산업기반을 우크라이나 실전 데이터와 결합. 서방 자율체계 생태계 재편."
+    }
+  ],
+  "excluded_out_of_window": [
+    {
+      "title": "China's Military Is Now Using AI to Plan Strike Operations",
+      "outlet": "The Diplomat / Semafor",
+      "date": "2026-08-04",
+      "url": "https://thediplomat.com/2026/08/chinas-military-is-now-using-ai-to-plan-strike-operations/",
+      "note": "8월 초 — 7일 창 밖. 다음 주 중국 후속 보도 모니터링 필요."
+    },
+    {
+      "title": "Ukraine's Battlefield AI Spots 70% of Enemy Targets in 100,000 Drone Streams",
+      "outlet": "The Defense Post",
+      "date": "2026-08-12",
+      "url": "https://thedefensepost.com/2026/08/12/ukraine-ai-drone-target-detection/",
+      "note": "8월 중순 — 창 밖."
+    },
+    {
+      "title": "Israel's Next Tactical Drone Is About More Than Just Firepower",
+      "outlet": "The Defense Post",
+      "date": "2026-08-13",
+      "url": "https://thedefensepost.com/2026/08/13/israel-next-tactical-drone/",
+      "note": "8월 중순 — 창 밖."
+    }
+  ]
+}
