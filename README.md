@@ -30,5 +30,6 @@ outputs/
 | 주차 | 생성일 | 창 | 건수 | 산출물 |
 |------|--------|-----|------|--------|
 | 2026-W36 | 2026-09-02 | 08-27 ~ 09-02 | 12 | [news](outputs/2026-W36/news_2026-09-02.json) · [briefing](outputs/2026-W36/briefing_2026-09-02.md) · [hwpx](outputs/2026-W36/briefing_2026-09-02.hwpx) |
+| 2026-W36 | 2026-09-05 | 08-30 ~ 09-05 | 11 | [news](outputs/2026-W36/news_2026-09-05.json) · [briefing](outputs/2026-W36/briefing_2026-09-05.md) · [hwpx](outputs/2026-W36/briefing_2026-09-05.hwpx) |
 <!-- W36 브리핑: 항목별 근거(evidence)+출처 URL, 모든 주장에 [§n] 근거참조 적용 -->
 

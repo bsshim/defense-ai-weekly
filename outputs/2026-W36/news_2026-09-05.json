@@ -1,0 +1,165 @@
+{
+  "briefing_id": "defense-ai-2026-W36",
+  "collected_at": "2026-09-05",
+  "window": {
+    "from": "2026-08-30",
+    "to": "2026-09-05"
+  },
+  "items": [
+    {
+      "id": 1,
+      "category": 1,
+      "region": "미국",
+      "title": "펜타곤, GenAI.mil에 ChatGPT Mil·Grok for Government 정식 추가",
+      "outlet": "Fortune",
+      "date": "2026-09-01",
+      "url": "https://fortune.com/2026/09/01/pentagon-chatgpt-grok-government-military-ai-members-pete-hegseth-defense-department/",
+      "summary": "국방부가 8월 31일(월) 자체 AI 포털 GenAI.mil에 OpenAI의 ChatGPT Mil과 xAI의 Grok for Government를 정식 탑재했다. 약 300만 군·민간 인력이 접근 가능하며 기존 Gemini 기반 서비스와 병행 운영된다.",
+      "evidence": "\"3 million military and civilian workers access to ChatGPT and Grok... GenAI.mil already counts 1.7 million users among the Department's 3 million-strong workforce\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "국방부 표준 AI 플랫폼에 상용 LLM 복수 벤더가 병행 탑재되며 '멀티벤더 AI' 전략이 구체화되고 있다."
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "region": "미국",
+      "title": "美 육군, 팔란티어·안두릴에 TITAN 생산계약 1억9,200만 달러 발주",
+      "outlet": "Defense News",
+      "date": "2026-09-02",
+      "url": "https://www.defensenews.com/industry/techwatch/2026/09/02/us-army-awards-192m-to-palantir-anduril-for-titan-production/",
+      "summary": "육군이 차세대 이동형 정보융합체계 TITAN(Tactical Intelligence Targeting Access Node)의 초도 양산 8대(TITAN Advanced 4대·Basic 4대)를 팔란티어(1억2,700만 달러)와 안두릴(6,500만 달러)에 발주했다.",
+      "evidence": "\"$192 million... Palantir holds the larger order at $127 million, with Anduril Industries taking $65 million... eight initial production systems\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "AI 기반 정보융합체계가 시제 단계를 넘어 실전 양산 단계로 진입했다."
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "region": "미국",
+      "title": "기지 대드론 방어에 최대 74억 달러 소요 — CBO 보고서 재조명",
+      "outlet": "Federal News Network",
+      "date": "2026-09-04",
+      "url": "https://federalnewsnetwork.com/defense-main/2026/09/can-the-tech-to-defend-military-bases-from-drones-keep-up-with-the-evolving-threat/",
+      "summary": "연방뉴스네트워크가 의회예산국(CBO)의 기지 100곳 대드론 방호 비용 추산(최대 74억 달러)을 다시 짚으며, AI가 탑재된 드론의 진화 속도가 인간 대응 속도를 앞지르고 있다고 지적했다.",
+      "evidence": "\"almost $7 billion for protecting military installations against drones... 'What we are seeing now is more of a machine to machine capability that really transcends the human's ability to act quickly enough.'\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "AI 기반 위협 대응은 결국 자동화된 기계 대 기계 방어체계 전환이 불가피함을 시사한다."
+    },
+    {
+      "id": 4,
+      "category": 2,
+      "region": "국제(제네바)",
+      "title": "제네바 자율무기 정부전문가그룹(GGE), 구속력 있는 규범 논의 재점화",
+      "outlet": "Asia Times",
+      "date": "2026-09-02",
+      "url": "https://asiatimes.com/2026/09/time-for-binding-rules-on-self-targeting-autonomous-weapons/",
+      "summary": "8월31일~9월4일 제네바에서 열린 CCW 치명적자율무기(LAWS) 정부전문가그룹(GGE) 2차 세션을 계기로, 자체 표적선정 무기에 대한 구속력 있는 국제규범 제정 필요성을 촉구하는 논평이 나왔다.",
+      "evidence": "\"government experts were meeting in Geneva... following a recent call by the UN and the International Committee of the Red Cross (ICRC) for urgent controls on these weapons\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "우크라이나 실전 사례로 자율무기 규제 논의가 가속화되고 있으며, 11월 재검토회의를 앞둔 분수령이다."
+    },
+    {
+      "id": 5,
+      "category": 2,
+      "region": "미국",
+      "title": "美 해군, 항모탑재형 '로열 윙맨' 자율전투기 RFI 발표",
+      "outlet": "Army Recognition",
+      "date": "2026-08-31",
+      "url": "https://www.armyrecognition.com/news/navy-news/2026/u-s-navy-opens-race-for-first-carrier-based-loyal-wingman-combat-aircraft-for-ford-and-nimitz-class-carriers",
+      "summary": "해군이 8월 31일 포드·니미츠급 항모 탑재용 무장 자율 무인전투기 정보요청서(RFI)를 발표했다. 업계 회신 마감은 9월 18일이다.",
+      "evidence": "\"issued a Request for Information (RFI) for carrier-based loyal wingman combat aircraft on August 31, with industry responses due September 18, 2026... weaponized autonomous unmanned air vehicle\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "공군 CCA에 이어 해군판 무장 자율 유·무인 팀잉이 공식 조달 절차에 진입했다."
+    },
+    {
+      "id": 6,
+      "category": 3,
+      "region": "러시아·우크라이나",
+      "title": "러시아, 완전자율 AI '킬러 드론' 우크라이나 전장 첫 실전 투입 정황",
+      "outlet": "The Moscow Times",
+      "date": "2026-09-01",
+      "url": "https://www.themoscowtimes.com/2026/09/01/how-russia-developed-the-first-killer-ai-drone-despite-struggling-in-the-ai-race-a93618",
+      "summary": "지난 7월 자포리자에서 조종사와의 통신이 끊긴 러시아製 드론이 AI로 스스로 표적을 찾아 타격해 민간인 3명이 숨진 사례가 재조명됐다. 인간 개입 없이 AI가 표적을 결정·타격한 최초 사례로 분석된다.",
+      "evidence": "\"a drone with no connection to its original operator determined targets on its own and delivered a lethal payload, killing three civilians\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "완전자율 표적선정·교전이 실전에서 처음 확인된 사례로, 인간 개입 없는 교전의 선례가 될 수 있다."
+    },
+    {
+      "id": 7,
+      "category": 3,
+      "region": "러시아·우크라이나",
+      "title": "러시아 제트추진 드론, 우크라이나 방공망 포화공격 시도",
+      "outlet": "The Washington Post",
+      "date": "2026-09-02",
+      "url": "https://www.washingtonpost.com/world/2026/09/02/russias-jet-powered-drones-are-overwhelming-ukraines-air-defenses/",
+      "summary": "러시아가 기존보다 약 2배 빠른 제트추진 드론을 대량으로 투입해 우크라이나 방공망을 물량으로 무력화하려는 시도를 벌이고 있다고 보도됐다.",
+      "evidence": "\"jet-propelled drones capable of flying nearly twice as fast as older models and launched in quantities intended to overwhelm air defenses\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "속도와 물량을 결합한 포화공격이 기존 방공체계의 요격 능력을 앞지를 위험을 보여준다."
+    },
+    {
+      "id": 8,
+      "category": 4,
+      "region": "한국",
+      "title": "국방부, '국방 인공지능(AI) 전략 포럼' 개최 — 국방AI법 제정 논의",
+      "outlet": "아주경제",
+      "date": "2026-09-02",
+      "url": "https://www.ajunews.com/view/20260902170006281",
+      "summary": "국방부가 '신뢰받는 국방AI: 미래전을 선도하는 책임있는 혁신'을 주제로 전략 포럼을 열어 한국형 국방 AI 추진전략, AI 기반 지휘통제체계 구축, 국방인공지능법 제정을 통한 신뢰성·안전성 확보 방안을 논의했다. 국방부·국회·합참 등 약 150명이 참석했다.",
+      "evidence": "\"'신뢰받는 국방AI: 미래전을 선도하는 책임있는 혁신'을 주제로... 150여 명이 참석... 국방AI법 제정\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "한국형 지휘통제 AI와 법제화 논의가 구체적 정책 의제로 공식화되는 단계에 들어섰다."
+    },
+    {
+      "id": 9,
+      "category": 4,
+      "region": "일본",
+      "title": "일본, AI·드론 중심 사상 최대 556억 달러 국방예산 요구",
+      "outlet": "Local10 (AP)",
+      "date": "2026-08-31",
+      "url": "https://www.local10.com/news/world/2026/08/31/japan-to-beef-up-its-defense-with-drones-ai-and-missiles-defense-budget-plans-show/",
+      "summary": "일본 방위성이 8.9조 엔(556억 달러) 규모의 내년도 예산 요구안을 공개했다. AI 기반 지휘통제 플랫폼('AI 오케스트레이터')과 무인 공격드론 확보가 핵심 축이다.",
+      "evidence": "\"8.9 trillion yen ($55.6 billion) budget request... AI orchestrator capable of coordinating multiple AI systems, combining US-developed technologies with Japan's own models\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "주변국 일본의 AI-지휘통제 통합 가속은 한반도 안보 환경에 직접 영향을 미치는 변수다."
+    },
+    {
+      "id": 10,
+      "category": 4,
+      "region": "영국",
+      "title": "영국 국방 드론·AI 프로그램 현황 점검 — NYX·VANAHEIM·ANVIL 진행 중",
+      "outlet": "Drone Wars UK",
+      "date": "2026-09-01",
+      "url": "https://dronewars.net/2026/09/01/uk-military-drone-and-ai-programmes-where-are-we/",
+      "summary": "50억 파운드 규모 국방투자계획(DIP) 산하 세부 프로그램 현황을 점검한 분석으로, 자율무장드론 24대를 2030년까지 배치하는 'NYX', 컴퓨터비전 기반 표적탐지 'ANVIL' 등의 진행 상황을 정리했다.",
+      "evidence": "\"£5 billion... Project NYX to field up to 24 armed autonomous drones by 2030... Project ANVIL enables Army drones to detect and identify targets using rapidly retrainable computer-vision models\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "대규모 예산이 실제 프로그램 단위로 세분화되는 단계로, 유럽 자율무기 도입 속도를 가늠할 지표다."
+    },
+    {
+      "id": 11,
+      "category": 5,
+      "region": "미국",
+      "title": "'AI for Defense Summit 2026' 워싱턴 개최 — 실전배치 전환 논의",
+      "outlet": "DSI Group / Defense Advancement",
+      "date": "2026-09-02",
+      "url": "https://www.defenseadvancement.com/events/ai-for-defense-summit/",
+      "summary": "9월 2~3일 워싱턴 D.C.에서 열린 제5회 AI for Defense Summit에서 국방부·정보당국·산업계·학계가 실험 단계를 넘어 실전 배치로 전환되는 국방 AI 활용 사례를 논의했다.",
+      "evidence": "\"5th annual event will highlight real-world applications that are moving AI from experimentation to deployment across defense and federal missions\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "국방 AI의 초점이 실험·시연에서 실전 배치·운용으로 이동하는 흐름을 상징적으로 보여준다."
+    }
+  ],
+  "excluded_out_of_window": [
+    {
+      "title": "대만, 66억 달러 특별 국방예산 드론 법안 표결 추진",
+      "outlet": "Taipei Times",
+      "date": "2026-08-27",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/27/2003863213",
+      "note": "표결 결과 및 후속 드론 예산 집행 여부 모니터링 필요"
+    },
+    {
+      "title": "대만, 앤듀럴로부터 알티우스(Altius) 드론 2,000대 이상 도입",
+      "outlet": "The Defense Post",
+      "date": "2026-08-28",
+      "url": "https://thedefensepost.com/2026/08/28/taiwan-acquires-anduril-altius/",
+      "note": "수집 창 이틀 전 보도. 실제 인도·배치 일정 후속 확인 필요"
+    },
+    {
+      "title": "EU-우크라이나 드론 얼라이언스, 18개 창립기업 브뤼셀 첫 회의",
+      "outlet": "European Commission / dronexl",
+      "date": "2026-09-미상",
+      "url": "https://dronexl.co/2026/07/20/eu-drone-alliance-ukraine/",
+      "note": "9월 중 브뤼셀 개최 예정이나 정확한 일자 미확인 — 개최 후 결과 후속 확인 필요"
+    }
+  ]
+}
