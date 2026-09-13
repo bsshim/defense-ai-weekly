@@ -32,5 +32,6 @@ outputs/
 | 2026-W36 | 2026-09-02 | 08-27 ~ 09-02 | 12 | [news](outputs/2026-W36/news_2026-09-02.json) · [briefing](outputs/2026-W36/briefing_2026-09-02.md) · [hwpx](outputs/2026-W36/briefing_2026-09-02.hwpx) |
 | 2026-W36 | 2026-09-05 | 08-30 ~ 09-05 | 11 | [news](outputs/2026-W36/news_2026-09-05.json) · [briefing](outputs/2026-W36/briefing_2026-09-05.md) · [hwpx](outputs/2026-W36/briefing_2026-09-05.hwpx) |
 | 2026-W36 | 2026-09-06 | 08-31 ~ 09-06 | 9 | [news](outputs/2026-W36/news_2026-09-06.json) · [briefing](outputs/2026-W36/briefing_2026-09-06.md) · [hwpx](outputs/2026-W36/briefing_2026-09-06.hwpx) |
-<!-- W36 브리핑: 항목별 근거(evidence)+출처 URL, 모든 주장에 [§n] 근거참조 적용 -->
+| 2026-W37 | 2026-09-13 | 09-07 ~ 09-13 | 12 | [news](outputs/2026-W37/news_2026-09-13.json) · [briefing](outputs/2026-W37/briefing_2026-09-13.md) · [hwpx](outputs/2026-W37/briefing_2026-09-13.hwpx) |
+<!-- W37 브리핑: 항목별 근거(evidence)+출처 URL, 모든 주장에 [§n] 근거참조 적용 -->
 
