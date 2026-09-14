@@ -2,6 +2,10 @@
 
 전 세계 **국방 AI / 자율무인체계** 관련 기사를 매주(일요일 09:00 KST) 자동 수집·정리하는 프로젝트.
 
+이 repo는 동일한 파이프라인을 공유하는 두 서브 프로젝트를 담고 있다:
+- **국방 AI** (본 README, repo 루트 `context/`·`scripts/`·`outputs/`)
+- **[uam-aam](uam-aam/README.md)** — UAM·AAM·eVTOL 주간 동향 (repo 루트 `uam-aam/` 하위, HWPX 빌더는 `vendor/` 공유)
+
 ## 구조
 ```
 context/
