@@ -1,0 +1,108 @@
+{
+  "briefing_id": "uam-aam-2026-W38",
+  "collected_at": "2026-09-17",
+  "window": { "from": "2026-09-11", "to": "2026-09-17" },
+  "items": [
+    {
+      "id": 1,
+      "category": 1,
+      "region": "한국",
+      "title": "국내 민간개발 UAM 기체 'B-32-R2', 인천대서 첫 공개비행",
+      "outlet": "헤럴드경제",
+      "date": "2026-09-15",
+      "url": "https://biz.heraldcorp.com/article/10807725",
+      "summary": "국토교통부가 인천대 INU이노베이션센터에서 개최한 'K-UAM 비행 쇼케이스'에서 삼보모터스그룹이 개발 중인 UAM 기체 'B-32-R2'(폭 10m·길이 6.2m·최대이륙중량 950kg)가 약 5m 상공에서 3분간 안정적인 공중정지비행(호버링)을 수행, 국내 민간기업 자체 개발 실물 크기 기체의 첫 공개비행을 완료했다.",
+      "evidence": "\"삼보모터스그룹이 개발 중인 UAM 기체 'B-32-R2'는 약 5m 상공에서 3분간 안정적인 공중정지비행(Hovering)을 수행했다\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "국내 민간기업이 자체 개발한 실물 크기 UAM 기체의 첫 공개비행으로, 독자 기체 제작 기술력의 시금석이자 K-UAM 상용화(2028년 목표) 로드맵의 국산화 축을 보여줌."
+    },
+    {
+      "id": 2,
+      "category": 2,
+      "region": "한국",
+      "title": "'2026 대한민국 드론·UAM 박람회', 인천 송도컨벤시아서 개막",
+      "outlet": "로봇신문",
+      "date": "2026-09-15",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=47430",
+      "summary": "국토교통부와 인천시가 주최하는 '2026 대한민국 드론·UAM 박람회'가 9월 15일 인천 송도컨벤시아에서 개막해 17일까지 진행되며, 개막에 앞서 국산 UAM 기체 비행 쇼케이스가 함께 열렸다.",
+      "evidence": "\"'2026 대한민국 드론·UAM 박람회'가 15일 인천 송도컨벤시아에서 개막했다\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "국내 드론·UAM 산업 생태계(기체·부품·서비스 기업)를 한자리에 모은 연례 행사로, 국산 기체·인프라 기업들의 상용화 준비 수준을 가늠할 수 있는 지표."
+    },
+    {
+      "id": 3,
+      "category": 2,
+      "region": "중국",
+      "title": "제4회 미래공중교통발전대회 겸 eVTOL산업전람회, 선전서 개막",
+      "outlet": "腾讯网(Tencent News)",
+      "date": "2026-09-17",
+      "url": "https://news.qq.com/rain/a/20260917A0CYZI00",
+      "summary": "9월 16~17일 선전국제회의전시센터(바오안 신관)에서 열린 제4회 미래공중교통발전대회 겸 eVTOL산업전람회에 60여 종의 유인 eVTOL·플라잉카·톤급 화물드론 실기와 300여 개 선도 기업이 참가, 기체·배터리·비행제어·저고도 인프라 전주기 공급망을 선보였다.",
+      "evidence": "\"60+款载人eVTOL、飞行汽车、吨级货运无人机实机集中亮相...汇聚300+领衔展商\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "중국 eVTOL 산업의 기체·부품·인프라 전주기 공급망 역량이 한자리에 모이며, 기술 시제품 단계에서 상용 운항 단계로의 전환 속도를 가늠할 수 있는 지표."
+    },
+    {
+      "id": 4,
+      "category": 2,
+      "region": "미국",
+      "title": "아처·베타, 텍사스 eIPP 지원용 항공택시 충전 인프라망 확대 계획 보도",
+      "outlet": "Texas Politics",
+      "date": "2026-09-11",
+      "url": "https://texaspolitics.com/2026/09/11/new-electric-air-taxi-charging-network-planned-for-texas/",
+      "summary": "아처 에비에이션·베타 테크놀로지스·매쿼리 캐피털이 결성한 'America's Consortium for Electric Skyways(ACES)'가 텍사스주 교통국(TxDOT)의 eIPP 실증 운항을 지원하기 위해 텍사스 내 항공택시 공용 충전 인프라망 구축 계획을 발표, 향후 10년간 전국 최대 250개 부지 전동화를 목표로 한다.",
+      "evidence": "\"America's Consortium for Electric Skyways (ACES), launched by Archer Aviation, BETA Technologies and Macquarie Capital, aims to electrify up to 250 air taxi sites... and plans to expand in Texas to support TxDOT's eIPP operations\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "항공택시 충전 인프라의 공유·표준화 모델이 실제 실증 지역(텍사스)으로 확대되며, 상용화의 병목으로 꼽히는 지상 충전 인프라 구축이 구체화되고 있음을 시사."
+    },
+    {
+      "id": 5,
+      "category": 3,
+      "region": "한국",
+      "title": "한국교통안전공단(TS), 국회서 'UAM 초기 상용화 정책 토론회' 개최",
+      "outlet": "파이낸셜뉴스",
+      "date": "2026-09-14",
+      "url": "https://www.fnnews.com/news/202609141144521664",
+      "summary": "한국교통안전공단(TS)이 9월 14일 국회 의원회관에서 산학연 관계자 약 150명이 참석한 가운데 'UAM 초기 상용화 정책 토론회'를 개최, 상용화 실행전략·인력양성·기체 인증 지원·지역 상용화 촉진 방안을 논의했다.",
+      "evidence": "\"교통안전공단이 국회에서 'UAM 초기 상용화 정책 토론회'를 개최해 150여 명이 참석한 가운데 실행계획을 촘촘히 연결해야 한다는 의견이 나왔다\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "'언제 상용화할지'에서 '상용화를 위해 무엇을 준비할지'로 논의의 초점이 이동하며, 인력·인증·안전체계 등 제도 정비가 국회 차원에서 본격 논의되기 시작했음을 보여줌."
+    },
+    {
+      "id": 6,
+      "category": 3,
+      "region": "홍콩·중국",
+      "title": "홍콩, 저고도경제 '감독 샌드박스 X' 성과 공개…내년 말까지 행동강령 예고",
+      "outlet": "腾讯网(Tencent News)",
+      "date": "2026-09-11",
+      "url": "https://news.qq.com/rain/a/20260911A004D800",
+      "summary": "홍콩 민항처가 작년 6월 이후 저고도경제 감독 샌드박스 신청 140여 건을 승인했다고 밝혔으며, 교통물류국장은 더 복잡한 응용 시나리오(국경 간 물류·유인 비행 등)를 다루는 '감독 샌드박스 X'를 토대로 내년 말까지 저고도경제 행동강령 초안을 마련해 업계 의견수렴에 나설 계획이라고 밝혔다.",
+      "evidence": "\"香港民航处自去年6月至今，已就低空经济监管沙盒批出超过140项申请...运输及物流局局长陈美宝预计明年年底前草拟发展低空经济行动纲领并咨询业界\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "규제 샌드박스 성과를 발판으로 항로·항점 등 톱다운 인프라 청사진(행동강령) 수립 일정이 구체화되며, 동아시아 역내 저고도경제 규제 선점 경쟁이 가속화되고 있음을 보여줌."
+    },
+    {
+      "id": 7,
+      "category": 4,
+      "region": "미국·글로벌",
+      "title": "조비·아처·이항 등 eVTOL 대표주 동반 약세 지속…연초 대비 최대 53% 하락",
+      "outlet": "24/7 Wall St.",
+      "date": "2026-09-15",
+      "url": "https://247wallst.com/investing/2026/09/15/joby-slips-and-is-down-53-this-year-as-the-evtol-trade-keeps-unwinding-archer-dips-ehang-eases/",
+      "summary": "조비 에비에이션 주가가 연초 대비 53%, 아처 에비에이션이 28% 하락하며 두 종목 모두 52주 최저가 근방에서 거래되는 등 상장 eVTOL 종목 전반의 약세(unwinding)가 수개월째 이어지고 있으며, 이항 역시 동반 약세를 보였다.",
+      "evidence": "\"Joby Aviation has shed 53% this year and Archer Aviation 28%, with both stocks trading near 52-week lows amid months of eVTOL sector unwinding\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "인증·상용화 지연에 따른 자금조달 우려가 투자심리 전반을 짓누르며, 상장 eVTOL 기업들의 자본조달 환경 악화가 상용화 시점 지연으로 이어질 리스크를 시사."
+    },
+    {
+      "id": 8,
+      "category": 5,
+      "region": "호주",
+      "title": "카이트 에어로, 사이크스와 손잡고 호주 질롱서 자율비행 물류기체 'KITE' 생산 개시",
+      "outlet": "DRONELIFE",
+      "date": "2026-09-14",
+      "url": "https://dronelife.com/2026/09/14/kite-aero-commences-kite-uas-production-in-geelong/",
+      "summary": "카이트 에어로스페이스가 사이크스 어드밴스드 매뉴팩처링과 협력해 호주 질롱 소재 복합재 생산시설에서 자율비행 물류기체 'KITE'의 양산을 개시, 지식재산권을 역내(Five Eyes 공급망)에 유지하는 생산체계를 구축했다.",
+      "evidence": "\"Kite Aerospace Pty Ltd started production of its KITE uncrewed aerial vehicle on September 14, 2026, partnering with Sykes Advanced Manufacturing...keeping intellectual property onshore\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "자율비행 물류기체의 역내(Five Eyes) 생산체계 구축 시도로, 공급망 자립성이 AAM 확산의 핵심 변수로 부상하고 있음을 보여줌."
+    }
+  ],
+  "excluded_out_of_window": [
+    { "title": "Joby Aviation, 텍사스 DFW서 eIPP 실증 비행 시작(9/10~14)", "outlet": "Drone Intelligence", "date": "2026-09-10", "url": "https://droneintelligence.ai/insights/joby-archer-eipp-routes", "note": "지난주(2026-W38, 09-14 생성) 브리핑에서 이미 다룬 사안으로 이번 주 산출물에서는 중복 제외. 5일 실증 종료 후 데이터·후속 발표 여부 모니터링." },
+    { "title": "EHang, 2026년 매출 가이던스 철회(중국 내 인증 지연)", "outlet": "urbanairmobilitynews.com / GlobeNewswire", "date": "2026-08-25", "url": "https://www.urbanairmobilitynews.com/air-taxis/ehang-q2-2026-results-regulatory-caution-means-no-full-year-revenue-guidance/", "note": "8월 발표로 수집 창 밖이나, 중국 국내 인증 지연 이슈가 지속되고 있어 3분기 실적·가이던스 재발표 여부 모니터링 필요." },
+    { "title": "CATL, 350Wh/kg eVTOL 배터리 항공 안전인증 통과(AutoFlight V2000EM 탑재 예정)", "outlet": "Urban Air Mobility News", "date": "2026-08-09", "url": "https://www.urbanairmobilitynews.com/batteries/chinas-catl-reports-its-350wh-kg-evtol-battery-has-passed-safety-verification-tests/", "note": "8월 발표로 수집 창 밖. 세계 최초 350Wh/kg 프리즈매틱 셀의 양산·탑재 진행 상황을 다음 주 이후 모니터링." }
+  ]
+}
