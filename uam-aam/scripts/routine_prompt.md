@@ -6,4 +6,4 @@
 
 날짜 규칙: 수집 창은 실행일(KST) 기준 정확히 최근 7일. 보도일자 불명 기사 제외. 각 항목에 YYYY-MM-DD 명시.
 
-(참고: 이 루틴은 아직 생성되지 않았다. 실제 클라우드 예약 실행을 원하면 RemoteTrigger로 별도 등록 필요 — 국방 AI 루틴 `trig_01R7Ro5nbqss73MrW2TX8cDy` 와는 별개.)
+(참고: 이 루틴은 생성 완료됨 — id `trig_01PVcaGJnSFXBkGXD9kAFTxD`, cron `0 23 * * 6`(매주 토요일 23:00 UTC = 매주 일요일 08:00 KST), 국방 AI 루틴 `trig_01R7Ro5nbqss73MrW2TX8cDy` 와는 별개. 수정/확인: RemoteTrigger 툴.)

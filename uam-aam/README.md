@@ -23,13 +23,13 @@ HWPX 빌더는 repo 루트 `vendor/public-doc-to-hwpx/` 를 국방 AI 프로젝�
 ## 카테고리 (5분류)
 1. 기체 개발·인증 2. 상용 서비스·버티포트 3. 정책·규제 4. 투자·시장 5. 기술 R&D
 
-## 자동화 상태
-- 클라우드 예약 루틴 **미생성**. 매주 수동 요청 시 `context/scope.md` + `scripts/run_weekly.md` 대로 수집한다.
-- HWPX 풀버전 보고서 생성은 아직 실행하지 않았다(뉴스 목록·브리핑까지만 1단계 완료).
+## 자동화
+- 클라우드 루틴(`trig_01PVcaGJnSFXBkGXD9kAFTxD`)이 매주 일요일 08:00 KST에 `context/scope.md` + `scripts/run_weekly.md` 대로 실행 (국방 AI 루틴 `trig_01R7Ro5nbqss73MrW2TX8cDy` 와 별개, 같은 repo 공유이므로 커밋 전 fetch/pull 필수).
+- HWPX 는 repo 루트 `vendor/public-doc-to-hwpx/scripts/build_full.py` 로 빌드.
 - 모든 주장은 근거 항목 번호 `[§n]` 로 추적, 브리핑 말미 `## 주요 출처` 에 URL 명시.
 
 ## 수집 이력
 
 | 주차 | 생성일 | 창 | 건수 | 산출물 |
 |------|--------|-----|------|--------|
-| 2026-W38 | 2026-09-14 | 09-08 ~ 09-14 | 7 | [news](outputs/2026-W38/news_2026-09-14.json) · [briefing](outputs/2026-W38/briefing_2026-09-14.md) |
+| 2026-W38 | 2026-09-14 | 09-08 ~ 09-14 | 7 | [news](outputs/2026-W38/news_2026-09-14.json) · [briefing](outputs/2026-W38/briefing_2026-09-14.md) · [hwpx](outputs/2026-W38/briefing_2026-09-14.hwpx) |
