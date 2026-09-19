@@ -32,5 +32,6 @@ HWPX 빌더는 repo 루트 `vendor/public-doc-to-hwpx/` 를 국방 AI 프로젝�
 
 | 주차 | 생성일 | 창 | 건수 | 산출물 |
 |------|--------|-----|------|--------|
+| 2026-W38 | 2026-09-20 | 09-14 ~ 09-20 | 9 | [news](outputs/2026-W38/news_2026-09-20.json) · [briefing](outputs/2026-W38/briefing_2026-09-20.md) · [hwpx](outputs/2026-W38/briefing_2026-09-20.hwpx) |
 | 2026-W38 | 2026-09-17 | 09-11 ~ 09-17 | 8 | [news](outputs/2026-W38/news_2026-09-17.json) · [briefing](outputs/2026-W38/briefing_2026-09-17.md) · [hwpx](outputs/2026-W38/briefing_2026-09-17.hwpx) |
 | 2026-W38 | 2026-09-14 | 09-08 ~ 09-14 | 7 | [news](outputs/2026-W38/news_2026-09-14.json) · [briefing](outputs/2026-W38/briefing_2026-09-14.md) · [hwpx](outputs/2026-W38/briefing_2026-09-14.hwpx) |

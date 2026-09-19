@@ -1,0 +1,121 @@
+{
+  "briefing_id": "uam-aam-2026-W38",
+  "collected_at": "2026-09-20",
+  "window": { "from": "2026-09-14", "to": "2026-09-20" },
+  "items": [
+    {
+      "id": 1,
+      "category": 2,
+      "region": "일본·한국",
+      "title": "스카이드라이브-한국 '버티', 2028년 한국 eVTOL 상용화 겨냥 MOU 체결",
+      "outlet": "DroneLife",
+      "date": "2026-09-17",
+      "url": "https://dronelife.com/2026/09/17/skydrive-verty-south-korea-evtol-operations/",
+      "summary": "일본 스카이드라이브가 한국 기업 '버티'와 양해각서(MOU)를 체결하고, 2인승 eVTOL 'SD-05'의 2028년 한국 내 상용 운항(관광·지역 교통 등)을 목표로 비행안전·인프라·노선을 공동 연구하기로 했다.",
+      "evidence": "\"SkyDrive Inc. has signed a memorandum of understanding (MOU) with South Korean firm Verty, targeting commercial deployment of the SD-05 electric vertical take-off and landing (eVTOL) aircraft in South Korea by 2028\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "일본 기체 개발사가 한국을 초기 상용화 대상 시장으로 직접 지목한 사례로, 국내 인증·인프라 체계가 해외 기체 도입 경쟁의 시험대가 될 수 있음을 시사."
+    },
+    {
+      "id": 2,
+      "category": 2,
+      "region": "중국·UAE",
+      "title": "오토플라이트, 화물용 eVTOL 30대 인피니 에어로에 공급 계약",
+      "outlet": "Urban Air Mobility News",
+      "date": "2026-09-14",
+      "url": "https://www.urbanairmobilitynews.com/logistics/autoflight-to-provide-30-cargo-evtols-to-infini-aero/",
+      "summary": "중국 오토플라이트가 물류업체 인피니 에어로와 화물용 eVTOL 'V2000CG 캐리올' 30대 공급 계약을 체결, 올해 5대(그중 2대는 9월 예정) 우선 인도한다.",
+      "evidence": "\"AutoFlight and Infini Aero have signed an agreement for the purchase of 30 V2000CG CarryAll cargo eVTOLs. The first five aircraft are scheduled for delivery this year, with two planned for September\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "완제 인증을 마친 중국산 화물 eVTOL의 실계약·인도가 본격화되며, 여객보다 화물 부문에서 상용화가 먼저 자리 잡는 흐름을 재확인."
+    },
+    {
+      "id": 3,
+      "category": 2,
+      "region": "일본",
+      "title": "스카이포츠, 일본 6개 현 AAM 인프라 사업 9건 전량 수주",
+      "outlet": "Robotics and Automation News",
+      "date": "2026-09-18",
+      "url": "https://roboticsandautomationnews.com/2026/09/18/skyports-secures-nine-japanese-advanced-air-mobility-projects/104952/",
+      "summary": "영국 버티포트 개발사 스카이포츠 인프라스트럭처가 2026년 일본 오사카·효고·오이타·야마나시·시즈오카·미에 등 6개 현(縣)의 AAM 보조금 사업 9건에 모두 선정, 100% 수주율을 기록했다.",
+      "evidence": "\"Skyports Infrastructure has secured all nine Japanese subsidy projects it participated in during 2026, achieving a 100% application success rate...the nine project wins span six prefectures\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "해외 버티포트 전문기업이 일본 지방정부 인프라 사업을 싹쓸이하며, 버티포트 설계·운영 역량이 국가 간 수주 경쟁의 핵심 변수로 부상하고 있음을 보여줌."
+    },
+    {
+      "id": 4,
+      "category": 3,
+      "region": "한국",
+      "title": "TS, 국회서 'UAM 초기 상용화 정책 토론회' 개최",
+      "outlet": "글로벌이코노믹",
+      "date": "2026-09-14",
+      "url": "https://www.g-enews.com/article/Real-Estate/2026/09/202609141050574693ea13369bfa_1",
+      "summary": "한국교통안전공단(TS)이 국회 국토교통위원회 장종태 의원 주최로 'UAM 초기 상용화 정책 토론회'를 열어 산·학·연 관계자 150여 명이 참석한 가운데, 기체 개발·실증을 넘어 실제 운항에 필요한 제도·인력·안전체계 정비 방안을 논의했다.",
+      "evidence": "\"한국교통안전공단(TS)은...'UAM 초기 상용화 정책 토론회'를 개최했으며, 행사에는 UAM 관련 산·학·연 관계자 150여 명이 참석해 국내 UAM 정책의 실행 가능성과 업계 지원방안을 논의했습니다\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "논의의 축이 '기체·실증'에서 '운항 제도·인력 양성'으로 이동하며, 2028년 초기 상용화를 앞두고 비기술적 준비 과제의 시급성이 부각됨."
+    },
+    {
+      "id": 5,
+      "category": 3,
+      "region": "오만·중동",
+      "title": "오만, GUAMobility 컨소시엄과 국가 AAM 전략 수립 협의 착수",
+      "outlet": "Urban Air Mobility News",
+      "date": "2026-09-15",
+      "url": "https://www.urbanairmobilitynews.com/utm/guamobility-progresses-omans-aam-strategy/",
+      "summary": "오만 정부가 위임한 국제 컨소시엄 GUAMobility가 무스카트에서 9월 한 달간 7개 워크숍을 열어 정부·운영사·기술기업이 참여하는 국가 첨단항공모빌리티(AAM) 전략 수립에 착수, 협의 프로그램은 9월 23일 투자·금융 워크숍으로 마무리된다.",
+      "evidence": "\"Seven workshops are scheduled in Muscat during September...The consultation programme concludes on September 23 with a workshop dedicated to investment, financing and public-private partnerships\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "중동 산유국이 여객 운송뿐 아니라 화물·의료·안보·에너지 분야까지 아우르는 국가 단위 AAM 로드맵을 컨설팅 컨소시엄과 함께 조기에 설계하고 있어, 국가 전략 수립 속도 경쟁이 중동으로 확산되고 있음을 시사."
+    },
+    {
+      "id": 6,
+      "category": 3,
+      "region": "UAE",
+      "title": "AURAK 연구팀, UAE 에어택시 상용화 저해 17개 장벽 규명",
+      "outlet": "Urban Air Mobility News",
+      "date": "2026-09-17",
+      "url": "https://www.urbanairmobilitynews.com/commentary/aurak-study-identifies-17-barriers-to-starting-air-taxi-operations-in-the-uae/",
+      "summary": "아랍에미리트 라스알카이마 아메리칸대(AURAK) 연구팀이 TOEH 프레임워크와 ISM·MICMAC 분석을 활용해 신흥국 에어택시 도입을 가로막는 기술·조직·환경·인적 요인 17개 장벽을 규명, 규제 불확실성이 가장 큰 영향 요인이라고 밝혔다.",
+      "evidence": "\"The research identified 17 major barriers grouped under four broad categories: technological, organizational, environmental, and human factors...regulatory ambiguity has the greatest driving influence\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "신흥 시장에서의 에어택시 도입을 가로막는 핵심 변수가 기술이 아닌 '규제 모호성'이라는 학술적 근거가 제시되며, 명확한 정책·표준 프레임워크 마련이 상용화의 선결 조건임을 재확인."
+    },
+    {
+      "id": 7,
+      "category": 4,
+      "region": "미국",
+      "title": "포세이돈 에어로스페이스, 무인 화물기 개발에 6000만 달러 시리즈A 유치",
+      "outlet": "Evertiq",
+      "date": "2026-09-16",
+      "url": "https://evertiq.com/news/2026-09-16-poseidon-raises-60-million-to-build-unmanned-cargo-aircraft",
+      "summary": "미국 포세이돈 에어로스페이스가 TQ벤처스 주도로 JAWS·G스퀘어드·한화자산운용USA 등이 참여한 6000만 달러 규모의 초과청약 시리즈A 투자를 유치, 무인 화물기 '이그렛(Egret)'의 연내 첫 시험비행을 앞두고 있다.",
+      "evidence": "\"Poseidon Aerospace...has announced the close of an oversubscribed USD 60 million Series A financing. The round was led by TQ Ventures, with participation from JAWS, G Squared, Hanwha Asset Management USA...\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "여객 eVTOL 투심이 위축된 가운데서도 무인 화물기 분야에는 대형 투자가 이어지고 있어, AAM 자금조달의 무게중심이 화물·무인 부문으로 이동하고 있음을 시사."
+    },
+    {
+      "id": 8,
+      "category": 4,
+      "region": "유럽연합(EU)",
+      "title": "EU 청정항공 이니셔티브, 19개 프로젝트에 6억6400만 유로 지원",
+      "outlet": "Urban Air Mobility News",
+      "date": "2026-09-18",
+      "url": "https://www.urbanairmobilitynews.com/research/eu-funding-for-clean-aviation-technology-reaches-eur664-million/",
+      "summary": "EU 청정항공 공동사업(Clean Aviation JU) 이사회가 하이브리드·수소 추진, 기체 최적화, 소음저감 등을 다루는 19개 신규 프로젝트에 2억9000만 유로의 EU 자금을 승인, 총 연구비 규모는 6억6400만 유로에 달한다.",
+      "evidence": "\"The Governing Board of the Clean Aviation Joint Undertaking has approved €290 million in EU funding for 19 new Clean Aviation projects, amounting to €664 million in total research effort\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "유럽이 개별 기업 투자 대신 공동 연구비 형태로 차세대 추진기술에 대규모 자금을 투입하며, 미국·중국의 민간 자금 중심 개발과 대비되는 정부 주도형 R&D 전략을 이어가고 있음을 보여줌."
+    },
+    {
+      "id": 9,
+      "category": 5,
+      "region": "유럽(체코·이탈리아)",
+      "title": "허니웰, 수소전기 추진 'NEWBORN' 프로젝트 주요 이정표 달성",
+      "outlet": "AviTrader",
+      "date": "2026-09-17",
+      "url": "https://avitrader.com/2026/09/17/project-newborn-hits-hydrogen-electric-propulsion-milestone/",
+      "summary": "허니웰 에어로스페이스가 체코 브르노 엔지니어링팀에서 메가와트급 수소연료전지 동력원의 주요 서브시스템 통합을 완료, EU가 지원하는 'Project NEWBORN'의 항공용 수소전기 추진 시스템 개발이 다음 단계(이탈리아 고리치아 이전, 배터리·전기모터 통합)로 진입했다.",
+      "evidence": "\"Honeywell Aerospace's engineering team in Brno, Czech Republic, has successfully integrated the main subsystems of a hydrogen fuel-cell power source capable of generating and supplying electricity for an aircraft...part of Project NEWBORN...funded by the European Union through the Clean Aviation Joint Undertaking\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "배터리 중심의 eVTOL 추진 기술과 별개로, 대형·장거리용 수소전기 추진 시스템 개발이 유럽에서 실질적 통합·검증 단계로 진입하며 차세대 동력원 경쟁 구도가 다변화되고 있음을 시사."
+    }
+  ],
+  "excluded_out_of_window": [
+    { "title": "조비 에비에이션, 텍사스 DFW eIPP 실증 비행 캠페인(9/10~14) 개시", "outlet": "Aviation Week", "date": "2026-09-10", "url": "https://aviationweek.com/aerospace/advanced-air-mobility/joby-begins-evtol-demo-flights-texas-under-faas-eipp", "note": "5일간 캠페인의 시작 보도가 창 밖(9/10)이며 종료일(9/14)만 창 안에 걸침. FAA eIPP 실증 데이터·후속 발표 여부를 다음 주 모니터링." },
+    { "title": "아처 에비에이션 'Midnight', 'No Roads' 투어 첫 구간(살리나스↔홀리스터) 비행 완료", "outlet": "UASweekly", "date": "2026-09-04", "url": "https://uasweekly.com/2026/09/14/archer-midnight-completes-piloted-city-to-city-evtol-roundtrip-on-no-roads-tour/", "note": "비행 자체는 9/4로 창 밖이나, 투어가 몬터레이·산호세·오클랜드·샌프란시스코·LA·텍사스·플로리다로 이어질 예정이어서 다음 구간 진행 상황을 모니터링." },
+    { "title": "국토교통부, 2026년 UAM 지역시범사업 최종 대상지로 서울 선정", "outlet": "파이낸셜뉴스", "date": "2026-09-10", "url": "https://www.fnnews.com/news/202609100806551765", "note": "원 선정 발표는 창 밖(9/10)이나, 후속 정책 토론(TS 'UAM 초기 상용화 정책 토론회')은 이번 주 창 안에서 [§4]로 다룸." },
+    { "title": "이항 EH216-S, 홍콩 사이버포트서 저고도경제 '감독 샌드박스 X' 시범비행", "outlet": "HKSAR 정부/현지 매체", "date": "2026-09-12", "url": "https://www.urbanairmobilitynews.com/", "note": "창 시작일(9/14) 이틀 전 사건으로 제외. 홍콩 감독 샌드박스 성과·행동강령 발표 후속 여부를 계속 모니터링." }
+  ]
+}
