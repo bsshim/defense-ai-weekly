@@ -1,0 +1,146 @@
+{
+  "briefing_id": "defense-ai-2026-W38",
+  "collected_at": "2026-09-20",
+  "window": {
+    "from": "2026-09-14",
+    "to": "2026-09-20"
+  },
+  "items": [
+    {
+      "id": 1,
+      "category": 1,
+      "region": "미국",
+      "title": "펜타곤, 'AI 지원 소프트웨어 개발' 절차 지침 시행",
+      "outlet": "DefenseScoop",
+      "date": "2026-09-14",
+      "url": "https://defensescoop.com/2026/09/14/pentagon-sets-procedures-for-ai-assisted-software-development/",
+      "summary": "펜타곤 CIO 커스틴 데이비스가 8월31일 서명한 '신속임무소프트웨어(Accelerated Mission Software)' 지침이 9월8일부로 발효돼, AI 지원 소프트웨어 개발 절차를 국방부 조달·개발 체계에 공식 반영했다.",
+      "evidence": "\"guidance on 'Accelerated Mission Software' signed by Pentagon CIO Kirsten Davies on Aug. 31 and going into effect Sept. 8\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "국방부가 소프트웨어 개발 전 과정에 AI 활용을 공식 절차화하며 '소프트웨어 중심전' 시대의 조달 표준으로 자리잡고 있다."
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "region": "미국",
+      "title": "골든돔 책임자 '2028년 여름 초기운용능력 목표'…AI 산업포털 확대",
+      "outlet": "ClearanceJobs",
+      "date": "2026-09-14",
+      "url": "https://news.clearancejobs.com/2026/09/14/golden-dome-is-taking-shape-and-the-pentagon-is-looking-to-industry-for-solutions/",
+      "summary": "골든돔 미사일방어 아키텍처 책임자 마이클 구에트라인 장군이 항공우주사이버콘퍼런스에서 2028년 여름 초기운용능력 확보 목표를 재확인하고, AI·센서·지휘통제 분야 상용기술 발굴을 위한 산업포털 확대 방침을 밝혔다.",
+      "evidence": "\"Guetlein... said the program is on a path toward delivering an operational capability as early as summer 2028\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "AI 기반 데이터 통합·의사결정 지원이 골든돔 아키텍처의 핵심 축으로 재확인되며 상용 AI 기업의 참여 창구가 구체화되고 있다."
+    },
+    {
+      "id": 3,
+      "category": 2,
+      "region": "미국",
+      "title": "합참의장 케인 '美 부대, 자율체계에 사냥당할 것 각오해야'",
+      "outlet": "DefenseScoop",
+      "date": "2026-09-16",
+      "url": "https://defensescoop.com/2026/09/16/gen-dan-caine-drones-autonomous-systems-ai-enabled-warfare/",
+      "summary": "합동참모본부 의장 댄 케인 대장이 미군 부대가 앞으로 자율체계에 의해 실시간 탐지·추적되고 전 스펙트럼에서 재밍당할 것을 전제로 대비해야 한다고 밝혔다.",
+      "evidence": "\"We have to assume from now on that our formations will be hunted by autonomous systems, jammed across the spectrum, and tracked in real time.\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "최고위 군사지휘관이 자율무기 위협을 공식 교리 차원의 전제로 명시하며 美 전력운용 개념 전반의 전환을 예고한다."
+    },
+    {
+      "id": 4,
+      "category": 2,
+      "region": "유럽(스웨덴)·NATO",
+      "title": "NATO 연계 ALMA 드론, 인간 명령 없이 자율표적선정·타격 성공 공개",
+      "outlet": "DroneXL",
+      "date": "2026-09-18",
+      "url": "https://dronexl.co/2026/09/18/nato-scaleout-alma-autonomous-drone-target/",
+      "summary": "NATO 국방혁신가속기(DIANA) 산하 FEDAIR 프로젝트의 스웨덴 스타트업 스케일아웃이 개발한 온보드 AI가, BAE시스템스 보포스 주관 ALMA 드론에서 장갑차량을 표적으로 자율 탐지·식별·타격까지 인간의 직접 명령 없이 수행했다고 공개됐다.",
+      "evidence": "\"Scaleout's onboard AI picked an armored vehicle out of a Swedish test range and struck it with no direct human command\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "인간 개입 없는 표적선정·타격이 시험환경에서 실증되며 자율교전 규범·통제 논의가 시급한 단계에 이르렀다."
+    },
+    {
+      "id": 5,
+      "category": 2,
+      "region": "국제",
+      "title": "\"자율 AI무기에 레드라인을\"…민간인 표적화 금지 국제규범 촉구",
+      "outlet": "Help Net Security",
+      "date": "2026-09-17",
+      "url": "https://www.helpnetsecurity.com/2026/09/17/autonomous-ai-weapons-future/",
+      "summary": "보안 전문매체 기고에서 자율 AI무기에 의한 비무장 민간인 표적화가 정상화되기 전에 국제사회가 레드라인과 집행 가능한 합의기준을 마련해야 한다고 주장했다.",
+      "evidence": "비무장 민간인을 표적으로 삼는 자율 AI무기의 실존적 위험을 경고하며 \"레드라인 설정과 집행 가능한 국제 합의\"를 촉구 (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "자율무기 실전 확산 속도에 국제규범 정비가 뒤처지고 있다는 위기의식이 커지고 있음을 보여준다."
+    },
+    {
+      "id": 6,
+      "category": 3,
+      "region": "러시아·우크라이나",
+      "title": "러시아, 지르콘미사일 2발+드론 174기 복합공습…우크라이나 방공 141기 요격",
+      "outlet": "UNN",
+      "date": "2026-09-19",
+      "url": "https://unn.ua/en/news/what-russia-attacked-ukraine-with-this-night-and-how-many-targets-were-shot-down",
+      "summary": "러시아가 9월18일 밤~19일 새벽 쿠르스크주에서 지르콘 대함미사일 2발과 공격·기만드론 174기(절반이 제트추진)를 발사, 오데사·키이우주 등 15곳에 피해를 입혔다. 우크라이나 방공은 141기(반데롤/단-T 3기, 무인기 138기)를 요격·무력화했다.",
+      "evidence": "\"Russian forces launched two Zircon missiles from Kursk Oblast and 174 attack and decoy drones... Ukrainian air defence forces had destroyed or jammed 141 aerial assets: three Banderol/Dan-T drone missiles and 138 UAVs\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "극초음속 미사일과 대량 드론을 결합한 복합공습이 지속되며 다층방공체계의 실전 검증 부담이 가중되고 있다."
+    },
+    {
+      "id": 7,
+      "category": 3,
+      "region": "한국",
+      "title": "대한항공, '2026 국방 드론 기술전'서 AI 드론 22대 군집비행·동시타격 시연",
+      "outlet": "뉴스핌",
+      "date": "2026-09-16",
+      "url": "https://www.newspim.com/news/view/20260917000994",
+      "summary": "대한항공이 9월16일 포천 승진훈련장 '2026 국방 드론 기술전'에서 자체개발 AI 드론 22대의 충돌 없는 군집비행과 정찰·교란·동시타격 임무를 시연, 1인이 다수 기체를 동시 통제할 가능성을 확인했다.",
+      "evidence": "\"선두 드론 2대는 AI 기반 실시간 자동 표적 식별(ATR) 기술을 활용해 위협을 탐지하고 표적 정찰 임무를 수행... 나머지 10대는 식별된 표적을 향해 수직 강하해 동시 정밀타격을 수행했다\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "국내 기업이 AI 군집제어·자동표적식별 기술을 실전형 시나리오로 실증하며 자율무기 국산화 역량이 구체화되고 있다."
+    },
+    {
+      "id": 8,
+      "category": 4,
+      "region": "한국",
+      "title": "네이버클라우드, '국방 AI Day'서 소버린 AI 기반 '국방 AX' 청사진 공개",
+      "outlet": "아주경제",
+      "date": "2026-09-18",
+      "url": "https://www.ajunews.com/view/20260918135434720",
+      "summary": "네이버클라우드가 9월18일 서울 신라호텔에서 국방부·합참 등 550명이 참석한 '국방 AI 전략 세미나(Defense AI Day)'를 열고, 공개데이터·비기밀 군데이터로 AI모델을 우선 만든 뒤 국방망 내 기밀데이터로 완성하는 국방 인공지능전환(AX) 전략을 제시했다. 2030년까지 전 국방분야로 AI 에이전트 확산이 목표다.",
+      "evidence": "\"군이 AI 통제권을 갖고 민간기술로 신속 전력화\"... \"외산 AI가 차단되면 '킬스위치' 위험\"이라며 통제권의 중요성을 강조 (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "외산 AI 의존시 '킬스위치' 리스크를 경고하며 자율무기·지휘결심체계에 대한 자국 통제권 확보가 안보정책의 핵심 의제로 부상하고 있다."
+    },
+    {
+      "id": 9,
+      "category": 4,
+      "region": "미국·중국",
+      "title": "美中 전문가, 군사AI '핵급' 레드라인·비상 핫라인 공동제안",
+      "outlet": "US News (Reuters)",
+      "date": "2026-09-17",
+      "url": "https://www.usnews.com/news/world/articles/2026-09-17/us-china-security-experts-propose-nuclear-style-safeguards-for-ai-risks",
+      "summary": "브루킹스연구소·푸단대 전문가들이 트럼프-시진핑 정상회담(9월24일 예정)을 앞두고, 핵무기 자율발사·핵지휘체계 자율공격 금지, 파괴적 사이버공격에 대한 인간통제, 자율AI 사고 발생시 비상 핫라인 개설 등 미중 군사AI 안전장치 공동제안을 발표했다.",
+      "evidence": "\"researchers recommend drawing strict red lines that forbid AI from independently launching nuclear weapons or targeting a rival nation's nuclear command infrastructure\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "자율체계의 오작동·오판이 초래할 우발적 확전 위험에 대응해 강대국간 군사AI 통제규범 논의가 정상급 의제로 격상되고 있다."
+    },
+    {
+      "id": 10,
+      "category": 5,
+      "region": "국제(미국)",
+      "title": "하버드 벨퍼센터, 군사AI 미래 백서 'Code, Command, and Conflict' 발간",
+      "outlet": "Belfer Center (Harvard Kennedy School)",
+      "date": "2026-09-14",
+      "url": "https://www.belfercenter.org/research-analysis/code-command-and-conflict-charting-future-military-ai",
+      "summary": "하버드 케네디스쿨 벨퍼센터가 군사AI의 위기외교·강대국 경쟁 영향을 분석한 백서를 발간, 세계 군사AI 지출이 2028년까지 388억 달러로 급증할 것으로 전망하며 정책적 대응방향을 제시했다.",
+      "evidence": "\"Global military spending on AI is estimated to have doubled from $4.6 billion to $9.2 billion USD between 2022 and 2023, and is expected to reach $38.8 billion by 2028\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "군사AI 투자 급증 전망이 학계 차원에서도 재확인되며 위기관리·안정성 확보를 위한 정책연구 수요가 커지고 있다."
+    }
+  ],
+  "excluded_out_of_window": [
+    {
+      "title": "판사, 펜타콘의 앤트로픽 '공급망 위험' 지정 위법 판결 — 국방부는 지정 유지 방침",
+      "outlet": "CNN / Quartz",
+      "date": "2026-09-03",
+      "url": "https://qz.com/pentagon-anthropic-supply-chain-risk-designation-090326",
+      "note": "8월28일 판결 이후에도 국방부가 지정을 유지 중이라고 밝힘(9.3 보도) — 9월말 전면제거 시한 도래 및 항소 여부 지속 확인 필요"
+    },
+    {
+      "title": "일본 방위성, AI·드론 중심 8.9조엔(556억달러) 사상 최대 방위예산 요구",
+      "outlet": "Daily Sabah / The Diplomat",
+      "date": "2026-08-31",
+      "url": "https://www.dailysabah.com/business/economy/japan-looks-to-ai-as-it-seeks-record-556b-defense-budget",
+      "note": "국회(예산) 심의 경과 및 최종 확정 여부(10조엔 상향 가능성 포함) 후속 확인 필요"
+    }
+  ]
+}
