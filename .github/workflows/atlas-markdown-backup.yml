@@ -1,0 +1,62 @@
+name: Back up published Atlas briefings
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+  push:
+    paths:
+      - '.github/workflows/atlas-markdown-backup.yml'
+permissions:
+  contents: write
+concurrency:
+  group: atlas-markdown-backup
+  cancel-in-progress: false
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Export public briefing fields only
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json, pathlib, re, urllib.request
+          request = urllib.request.Request('https://defense-ai-atlas.bsshim.chatgpt.site/api/materials', headers={'Accept':'application/json'})
+          with urllib.request.urlopen(request, timeout=60) as response:
+              data = json.load(response)
+          if not isinstance(data.get('items'), list):
+              raise RuntimeError('Invalid public feed; existing backup retained')
+          destination = pathlib.Path('atlas-public-briefings')
+          pending = {}
+          def md(item):
+              pairs = [('자료 날짜','date'),('브리핑 날짜','briefing_date'),('국가·지역','region'),('출처','outlet'),('원문 URL','url'),('검증 상태','verification'),('수정일','updated_at')]
+              result = '# ' + str(item.get('title','')) + '\n\n'
+              result += '\n'.join('- '+label+': '+str(item.get(key,'미등록')) for label,key in pairs)
+              for label,key in [('핵심 요약','summary'),('근거','evidence'),('시사점','why_it_matters')]:
+                  result += '\n\n## '+label+'\n\n'+str(item.get(key,''))
+              return result+'\n'
+          for item in data['items']:
+              identity = str(item.get('id',''))
+              if not re.fullmatch(r'manual-[a-f0-9-]{36}', identity):
+                  raise RuntimeError('Invalid public material ID')
+              pending[identity+'.md'] = md(item)
+          destination.mkdir(exist_ok=True)
+          for name, content in pending.items():
+              (destination/name).write_text(content, encoding='utf-8')
+          for old in destination.glob('manual-*.md'):
+              if old.name not in pending:
+                  old.unlink()
+          (destination/'README.md').write_text('# 공개 동향 MD 백업\n\n매시간 17분(UTC)에 공개 게시 자료를 동기화합니다. GitHub 실행은 지연될 수 있습니다. 비공개 원문·초안은 포함하지 않습니다. 공개 해제된 동향은 현재 파일에서 제거되지만 Git 이력에는 과거 공개본이 남습니다. 주간 수집 MD·JSON은 기존 outputs 폴더에 있습니다.\n', encoding='utf-8')
+          print('Public briefings exported:',len(pending))
+          PY
+      - name: Commit changed public briefings
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- atlas-public-briefings
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Back up published Atlas briefings as Markdown"
+          git pull --rebase origin main
+          git push origin HEAD:main
