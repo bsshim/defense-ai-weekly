@@ -1,11 +1,8 @@
 name: Back up published Atlas briefings
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '17 * * * *'
-  push:
-    paths:
-      - '.github/workflows/atlas-markdown-backup.yml'
+# Scheduled execution is paused: the Sites public feed returned HTTP 403 to GitHub Actions.
+# Enable scheduling only after an authenticated integration has been configured.
 permissions:
   contents: write
 concurrency:
@@ -47,7 +44,7 @@ jobs:
           for old in destination.glob('manual-*.md'):
               if old.name not in pending:
                   old.unlink()
-          (destination/'README.md').write_text('# 공개 동향 MD 백업\n\n매시간 17분(UTC)에 공개 게시 자료를 동기화합니다. GitHub 실행은 지연될 수 있습니다. 비공개 원문·초안은 포함하지 않습니다. 공개 해제된 동향은 현재 파일에서 제거되지만 Git 이력에는 과거 공개본이 남습니다. 주간 수집 MD·JSON은 기존 outputs 폴더에 있습니다.\n', encoding='utf-8')
+          (destination/'README.md').write_text('# 공개 동향 MD 백업\n\n외부 접근 403으로 예약 백업은 보류 중입니다. 인증 연결 후 실행할 수 있습니다. 비공개 원문·초안은 포함하지 않습니다. 공개 해제된 동향은 현재 파일에서 제거되지만 Git 이력에는 과거 공개본이 남습니다. 주간 수집 MD·JSON은 기존 outputs 폴더에 있습니다.\n', encoding='utf-8')
           print('Public briefings exported:',len(pending))
           PY
       - name: Commit changed public briefings
