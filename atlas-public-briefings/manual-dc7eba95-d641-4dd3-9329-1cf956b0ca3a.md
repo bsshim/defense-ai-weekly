@@ -6,7 +6,7 @@
 - 출처: dassault-aviation.com
 - 원문 URL: https://www.dassault-aviation.com/en/group/press/press-kits/new-artificial-intelligence-takes-flight-on-dassault-aviations-rafale/
 - 검증 상태: unverified
-- 수정일: 2026-09-23T22:44:30.884Z
+- 수정일: 2026-09-23T23:59:09.395Z
 
 ## 핵심 요약
 
