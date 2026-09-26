@@ -1,0 +1,108 @@
+{
+  "briefing_id": "uam-aam-2026-W39",
+  "collected_at": "2026-09-27",
+  "window": { "from": "2026-09-21", "to": "2026-09-27" },
+  "items": [
+    {
+      "id": 1,
+      "category": 1,
+      "region": "유럽(오스트리아·독일)",
+      "title": "다이아몬드 에어크래프트-볼로콥터 사업 통합, 연내 인증 목표 재확인",
+      "outlet": "eVTOL Insights",
+      "date": "2026-09-21",
+      "url": "https://evtolinsights.com/diamond-aircraft-industries-integrates-volocopter-into-its-business-portfolio-with-focus-to-achieve-certification-goals-this-year/",
+      "summary": "다이아몬드 에어크래프트에 인수된 볼로콥터가 사업 포트폴리오 통합을 마무리하고, 2인승 'VoloXPro'의 독일 초경량기 인증을 연내(2026년 말) 목표로 재확인했다.",
+      "evidence": "\"Diamond Aircraft Industries integrates Volocopter into its business portfolio, with focus to achieve certification goals this year\"...\"German ultralight-category certification is targeted for the end of 2026\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "파산 위기를 겪었던 유럽 대표 eVTOL사가 항공기 제조사 산하로 재편되며 인증 경로를 재정비, 유럽 진영의 생존 전략 변화를 보여줌."
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "region": "영국",
+      "title": "버티컬 에어로스페이스, 코츠월드 공항에 '발로(Valo)' 조립센터 신설",
+      "outlet": "Aerospace Testing International",
+      "date": "2026-09-25",
+      "url": "https://www.aerospacetestinginternational.com/news/vertical-aerospace-opens-valo-evtol-assembly-center-at-cotswold-airport.html",
+      "summary": "버티컬 에어로스페이스가 영국 코츠월드(켐블) 공항에 약 5,570㎡ 규모의 '발로' 기체 조립센터를 열어, 2027년 4분기 인증용 기체 조립 개시와 연 25대 이상의 초기 양산을 목표로 한다.",
+      "evidence": "\"a £1.5 million, 60,000ft² (5,570m²) facility...will build certification-conforming Valo aircraft, with first assembly expected in the fourth quarter of 2027...designed to build more than 25 Valo aircraft a year in early production\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "재무 압박 속에서도 실제 양산 인프라 투자를 이어가며 인증-양산 병행 전략을 구체화하고 있음을 시사."
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "region": "미국",
+      "title": "아처 에비에이션, '미드나잇' 캘리포니아 국제 에어쇼 공개비행 예고",
+      "outlet": "Archer Aviation (투자자 발표)",
+      "date": "2026-09-22",
+      "url": "https://www.investors.archer.com/news/news-details/2026/Archer-to-Showcase-Midnight-Flights-at-2026-California-International-Air-Show-as-Part-of-Its-No-Roads-Flight-Tour/default.aspx",
+      "summary": "아처 에비에이션이 'No Roads' 비행 투어의 일환으로 9월 26~27일 캘리포니아 국제 에어쇼(살리나스)에서 '미드나잇' 기체의 대중 공개비행을 진행한다고 밝혔다.",
+      "evidence": "\"Archer Aviation plans to conduct public flights of its all-electric Midnight aircraft on September 26-27 at the 2026 California International Air Show in Salinas\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "정식 인증 전 단계에서 지역사회·대중 대상 실비행 시연을 늘려 상용화 이전 신뢰 구축에 주력하고 있음을 보여줌."
+    },
+    {
+      "id": 4,
+      "category": 2,
+      "region": "미국",
+      "title": "베타 테크놀로지스, 노스캐롤라이나서 농어촌 의료 eIPP 실증 개시",
+      "outlet": "BETA Technologies (Businesswire)",
+      "date": "2026-09-23",
+      "url": "https://www.businesswire.com/news/home/20260923431053/en/BETA-Launches-North-Carolina-eIPP-Operations-to-Build-a-Scalable-Model-for-Rural-Healthcare-Access",
+      "summary": "베타 테크놀로지스가 FAA·美 교통부의 eIPP 프로그램을 통해 노스캐롤라이나에서 'ALIA CTOL' 기체와 충전 인프라를 활용, 지역 의료기관 간 의료품·인력 수송 실증에 착수했다.",
+      "evidence": "\"BETA announced it will conduct real-world operations with healthcare partners across North Carolina, using its all-electric ALIA CTOL aircraft and established charging network...More than 15 additional charging sites are in development\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "여객 운송보다 먼저 의료·물류 등 공공성 높은 서비스에서 전기항공 상용 모델을 검증하는 흐름이 미국에서도 이어지고 있음을 보여줌."
+    },
+    {
+      "id": 5,
+      "category": 4,
+      "region": "영국",
+      "title": "버티컬 에어로스페이스, 제프리스 선임하고 전략적 대안 검토 착수",
+      "outlet": "Urban Air Mobility News",
+      "date": "2026-09-24",
+      "url": "https://www.urbanairmobilitynews.com/air-taxis/vertical-aerospace-announces-strategic-review-of-financial-partnerships/",
+      "summary": "버티컬 에어로스페이스가 최근 1억 달러 자본 유치에 이어 제프리스를 재무자문사로 선임, 인증·양산 다음 단계를 지원할 전략적·재무적 파트너십 검토에 착수했다고 밝혔다.",
+      "evidence": "\"Vertical Aerospace Ltd...announced it is actively seeking strategic and financial partnerships...has retained Jefferies as its financial adviser...following a recent $100 million capital raise\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "대형 조립센터 개소와 동시에 추가 자금조달 압박에 직면, eVTOL 기업들의 자금 수요가 인증 후반부까지 지속됨을 보여줌."
+    },
+    {
+      "id": 6,
+      "category": 4,
+      "region": "미국",
+      "title": "아처 에비에이션, 보잉 자회사(위스크·스카이그리드·인시투) 인수 반독점 대기기간 종료",
+      "outlet": "TipRanks",
+      "date": "2026-09-24",
+      "url": "https://www.tipranks.com/news/company-announcements/archer-advances-boeing-unit-acquisition-after-antitrust-clearance",
+      "summary": "아처 에비에이션이 보잉 자회사 위스크에어로·스카이그리드·인시투 인수 관련 HSR법상 반독점 대기기간이 9월 18일 자정 만료됐다고 밝혀, 연내 거래 종결을 위한 규제 허들 하나를 넘어섰다.",
+      "evidence": "\"the mandatory waiting period under the Hart-Scott-Rodino Antitrust Improvements Act expired at 11:59 p.m. EDT on September 18, 2026...removes a key regulatory hurdle to closing\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "완제기·자율비행·화물 물류를 아우르는 대형 M&A가 연내 종결에 근접하며, 미국 진영의 수직계열화 경쟁이 가속화되고 있음을 시사."
+    },
+    {
+      "id": 7,
+      "category": 4,
+      "region": "중국",
+      "title": "이항, 매출 급감·규제 지연 속 투자자 소송 조사 착수",
+      "outlet": "GlobeNewswire (Pomerantz)",
+      "date": "2026-09-23",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367036/1087/en/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-ehang-holdings-limited-eh.html",
+      "summary": "미국 로펌 포메란츠가 이항 홀딩스 투자자를 대리해 소송 가능성을 조사한다고 밝혔다. 이항의 최근 매출은 전년 대비 31.3% 감소한 1,148만 달러로 시장 예상치(1,662만 달러)를 밑돌았다.",
+      "evidence": "\"EHang disclosed revenue of only $11.48 million, representing a 31.3% year-over-year decline and missing the $16.62 million consensus estimate\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "중국 규제당국의 안전관리 강화 여파가 실적에 본격 반영되며, 유인 상용화를 선도하던 중국 기체사도 규제 리스크에서 자유롭지 않음을 보여줌."
+    },
+    {
+      "id": 8,
+      "category": 5,
+      "region": "미국",
+      "title": "조비 에비에이션, 자율비행 기체로 미 대륙 횡단 무조종 비행 성공",
+      "outlet": "UASweekly",
+      "date": "2026-09-23",
+      "url": "https://uasweekly.com/2026/09/23/joby-completes-historic-fully-autonomous-cross-country-flight-across-the-united-states/",
+      "summary": "조비 에비에이션이 자율비행 기술을 탑재한 세스나 캐러밴으로 캘리포니아~노스캐롤라이나 3,199마일을 안전조종사 개입 없이 완주, 원격 감독 하 이착륙·항로 변경까지 전 구간 자율 수행을 입증했다.",
+      "evidence": "\"Joby Aviation flew an aircraft 3,199 miles (5,148 km) across the United States with zero control inputs from the safety pilot...Remote operators at Joby's Autonomy Headquarters...supervised the aircraft from as far as 2,323 miles away\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "eVTOL 자율비행 핵심기술이 유인 대형기체 실증으로 먼저 검증되며, 향후 무인 상용 운항 전환의 기술적 발판이 될 수 있음을 시사."
+    }
+  ],
+  "excluded_out_of_window": [
+    { "title": "국토교통부, 'K-UAM 기술경쟁력 강화방안' 발표(145건 중요기술 선정·테스트베드 3개소)", "outlet": "문화일보", "date": "2026-08-29", "url": "https://www.munhwa.com/article/11529018", "note": "발표는 창 밖(8/29)이나 후속 예산·시행 반영 여부를 계속 모니터링." },
+    { "title": "Good Growth Foundation, 영국 리드(Lydd) 공항 AAM 허브화 촉구 보고서(SkyComm 버티포트)", "outlet": "Urban Air Mobility News", "date": "2026-09-08", "url": "https://www.urbanairmobilitynews.com/utm/new-report-urges-uk-regional-airports-to-be-used-as-drone-and-aam-hubs/", "note": "보고서 발간은 창 밖(9/8)이나 카타르 왕실 투자 등 후속 진행 여부 모니터링." },
+    { "title": "아처 에비에이션-보잉, 위스크·스카이그리드·인시투 인수 원 계약 체결", "outlet": "Archer Aviation", "date": "2026-08-09", "url": "https://news.archer.com/", "note": "원 계약 발표는 창 밖(8/9)이며 이번 주는 반독점 대기기간 종료만 다룸[§6]. 연내 거래 종결 여부 계속 모니터링." }
+  ]
+}
