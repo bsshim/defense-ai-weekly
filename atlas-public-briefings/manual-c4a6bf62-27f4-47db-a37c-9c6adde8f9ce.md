@@ -6,7 +6,7 @@
 - 출처: diu.mil-5 Prizes Benefits and Follow-On.pdf
 - 원문 URL: 미등록
 - 검증 상태: unverified
-- 수정일: 2026-09-29T20:27:35.375Z
+- 수정일: 2026-09-29T20:27:47.609Z
 
 ## 핵심 요약
 
