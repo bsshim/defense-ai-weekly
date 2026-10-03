@@ -1,0 +1,83 @@
+{
+  "briefing_id": "uam-aam-2026-W40",
+  "collected_at": "2026-10-04",
+  "window": { "from": "2026-09-28", "to": "2026-10-04" },
+  "items": [
+    {
+      "id": 1,
+      "category": 1,
+      "region": "미국",
+      "title": "도로니 에어로스페이스, TLG 에어로스페이스와 'H1-X' 엔지니어링·인증 협력 체결",
+      "outlet": "EIN Presswire",
+      "date": "2026-09-29",
+      "url": "https://www.einpresswire.com/article/946093126/doroni-aerospace-partners-with-tlg-aerospace-to-advance-engineering-and-certification-for-the-h1-x-personal-evtol",
+      "summary": "개인용 eVTOL '카보라이트 X7'이 아닌 2인승 개인용 eVTOL 'H1-X'를 개발하는 도로니 에어로스페이스가 TLG 에어로스페이스와 손잡고 구조·하중·형상 엔지니어링 및 FAA 인증 정합성 확보에 나섰다.",
+      "evidence": "\"Doroni Aerospace and TLG Aerospace announced their partnership on September 29, 2026...The alliance combines Doroni's cutting-edge vehicle design with TLG Aerospace's deep engineering analysis and certification expertise to accelerate the Doroni H1-X toward full-scale production, ground testing, and FAA airworthiness alignment\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "소규모 개인용 eVTOL 개발사도 전문 엔지니어링·인증 아웃소싱으로 FAA 정합성을 조기에 확보하려는 흐름을 보여줌."
+    },
+    {
+      "id": 2,
+      "category": 2,
+      "region": "캐나다",
+      "title": "호라이즌 에어크래프트, 그레이트레이크스 헬리콥터와 '카보라이트 X7' MRO·조종사 교육 LOI 체결",
+      "outlet": "Urban Air Mobility News",
+      "date": "2026-09-30",
+      "url": "https://www.urbanairmobilitynews.com/?p=30586",
+      "summary": "온타리오 소재 헬리콥터 운영·정비(MRO)·조종사 교육기관인 그레이트레이크스 헬리콥터(GLH)가 호라이즌 에어크래프트의 하이브리드 전기 VTOL '카보라이트 X7'에 대한 MRO 서비스와 조종사 교육을 제공하고, 기체 구매도 추진하기로 하는 의향서(LOI)를 체결했다.",
+      "evidence": "\"Horizon Aircraft has signed a Letter of Intent with Great Lakes Helicopter...GLH intends to provide maintenance, repair and overhaul (MRO) services for Horizon Aircraft's Cavorite X7 aircraft and facilitate pilot training programmes to support future X7 operators. In addition, GLH intends to purchase a number of Cavorite X7 aircraft\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "기체 제조사가 신규 인프라 구축 없이 기존 헬리콥터 MRO·훈련망을 활용해 상용화 운영 기반을 조기에 마련하는 전략을 시사."
+    },
+    {
+      "id": 3,
+      "category": 2,
+      "region": "UAE",
+      "title": "라스알카이마교통청(RAKTA)-스카이포츠, 4개 버티포트 네트워크 구속력 있는 본계약 체결",
+      "outlet": "Gulf News",
+      "date": "2026-09-30",
+      "url": "https://gulfnews.com/uae/ras-al-khaimah/ras-al-khaimah-to-launch-advanced-air-mobility-network-by-q3-2027-1.500691085",
+      "summary": "라스알카이마교통청(RAKTA)과 스카이포츠 인프라스트럭처가 에미리트 전역 4개 버티포트 네트워크 구축·운영을 위한 구속력 있는 본계약을 체결했다. 1단계는 관광지인 알마르잔 아일랜드와 제벨 자이스에 집중되며, 2027년 3분기 상용 서비스 개시를 목표로 한다.",
+      "evidence": "\"RAKTA and Skyports Infrastructure have signed a binding Definitive Agreement to develop and operate the infrastructure for a four-vertiport network across the emirate...The first phase will focus on two of Ras Al Khaimah's major tourism destinations — Al Marjan Island and Jebel Jais...Commercial services targeted to launch in the third quarter of 2027\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "중동이 양해각서(MOU) 단계를 넘어 구속력 있는 본계약으로 버티포트 투자를 구체화하며 2027년 상용화 경쟁에 속도를 내고 있음을 보여줌."
+    },
+    {
+      "id": 4,
+      "category": 3,
+      "region": "베트남",
+      "title": "이항, '글로벌 패스트트랙 프로그램' 베트남(하노이)으로 확대",
+      "outlet": "Finviz (EHang 보도자료 인용)",
+      "date": "2026-09-29",
+      "url": "https://finviz.com/news/396220/ehangs-global-fast-track-program-expands-to-vietnam-its-second-country-joining-hands-with-hanoi-to-build-a-low-altitude-sandbox",
+      "summary": "중국 이항(EHang)이 스리랑카에 이어 베트남을 '글로벌 패스트트랙 프로그램' 두 번째 국가로 확대, 하노이를 첫 거점으로 파트너사 홍비엣 테크놀로지가 하노이 과학기술국과 양해각서를 체결해 EH216-S 기반 저고도 경제 샌드박스 실증을 추진한다.",
+      "evidence": "\"EHang's Global Fast Track Program has expanded to Vietnam, making Vietnam the second country to join the Program following Sri Lanka, with Hanoi as its first stop and marking EHang's first city-level partnership in the country...HungViet Technology and Investment Trading JSC signed a Memorandum of Understanding (MOU) with the Hanoi Department of Science and Technology\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "중국 eVTOL 기업이 자국 인증 체계를 아세안 각국에 수출하며 동남아 저고도 경제 규제 샌드박스 선점 경쟁에 나서고 있음을 시사."
+    },
+    {
+      "id": 5,
+      "category": 4,
+      "region": "미국",
+      "title": "아처 에비에이션-조비 에어로, 영업비밀 소송 모션에 대한 법원 판결(청구 일부 축소·반소 기각)",
+      "outlet": "SEC EDGAR (Archer Aviation 8-K)",
+      "date": "2026-09-29",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001824502/000182450226000078/achr-20260929.htm",
+      "summary": "북부캘리포니아 연방지방법원이 조비 에어로 대 아처 에비에이션 영업비밀 소송의 양측 기각 신청(Motions to Dismiss)에 대해 판결, 아처·소속 직원에 대한 일부 청구는 축소하면서도 다른 청구는 진행을 허용했고 아처의 반소는 수정 기회 없이 기각했다.",
+      "evidence": "\"On September 29, 2026, the United States District Court for the Northern District of California ruled on the parties' motions to dismiss in Joby Aero, Inc. v. Archer Aviation Inc., et al., Case No. 5:25-cv-10703-SVK...The Court narrowed the claims asserted against the Company and its employee...The Court also dismissed, without leave to amend, the Company's counterclaims against Joby Aero, Inc. and Joby Aviation, Inc.\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "미국 eVTOL 양강의 영업비밀 소송이 장기화되며 인재 유출·경쟁사 간 법적 리스크가 업계 신뢰에 부담으로 작용하고 있음을 보여줌."
+    },
+    {
+      "id": 6,
+      "category": 4,
+      "region": "미국",
+      "title": "리젠트 크래프트, 美 해병대 '시글라이더' 실증 계약 1,925만 달러로 확대",
+      "outlet": "Interesting Engineering",
+      "date": "2026-09-30",
+      "url": "https://www.regentcraft.com/news/regent-extends-u-s-marine-corps-contract-totaling-20-million-in-collaboration-zs2t4",
+      "summary": "미 해병대 워파이팅랩(MCWL)이 전기 시글라이더 개발사 리젠트 크래프트와의 협력을 확대, 프로토타입 실증·지휘통제 통합에 500만 달러를 추가해 누적 계약 규모를 1,925만 달러로 늘렸다.",
+      "evidence": "\"The US Marine Corps Warfighting Lab has expanded its collaboration with electric Seaglider developer REGENT Craft, adding $5 million for prototype capability demonstrations and command-and-control integration. The extension, announced September 30, brings the partnership's total value to $19.25 million\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "해상·수상 이착륙이 가능한 시글라이더형 AAM 기체가 국방 분야에서 단계적으로 실증 예산을 확대받으며 상용화 자금을 보완하는 모델을 보여줌."
+    }
+  ],
+  "excluded_out_of_window": [
+    { "title": "슈퍼널(현대차 eVTOL 자회사), CEO·CTO 사임 후 기체 개발 프로그램 일시 중단", "outlet": "Yahoo Finance 등", "date": "2025-08-31", "url": "https://finance.yahoo.com/news/hyundai-evtol-startup-supernal-pauses-191908464.html", "note": "경영진 사임·프로그램 중단은 창 밖(2025-08-31)이나 신규 리더십의 일정 재수립 여부를 계속 모니터링." },
+    { "title": "오만 교통부, AAM 실증·라이브 트라이얼 전략 프로그램 발표(기업 참여 초청)", "outlet": "Urban Air Mobility News 계열(추정)", "date": "2026-09-30(추정, 원문 URL 미확인)", "url": "", "note": "복수 집계 사이트에서 9/30 전후 언급되었으나 원문 기사 URL을 확인하지 못해 이번 주 본문에서는 제외, 다음 주 원문 확인 후 반영 검토." }
+  ]
+}
