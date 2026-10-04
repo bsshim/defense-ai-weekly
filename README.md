@@ -39,5 +39,6 @@ outputs/
 | 2026-W37 | 2026-09-13 | 09-07 ~ 09-13 | 12 | [news](outputs/2026-W37/news_2026-09-13.json) · [briefing](outputs/2026-W37/briefing_2026-09-13.md) · [hwpx](outputs/2026-W37/briefing_2026-09-13.hwpx) |
 | 2026-W38 | 2026-09-20 | 09-14 ~ 09-20 | 10 | [news](outputs/2026-W38/news_2026-09-20.json) · [briefing](outputs/2026-W38/briefing_2026-09-20.md) · [hwpx](outputs/2026-W38/briefing_2026-09-20.hwpx) |
 | 2026-W39 | 2026-09-27 | 09-21 ~ 09-27 | 12 | [news](outputs/2026-W39/news_2026-09-27.json) · [briefing](outputs/2026-W39/briefing_2026-09-27.md) · [hwpx](outputs/2026-W39/briefing_2026-09-27.hwpx) |
-<!-- W39 브리핑: 항목별 근거(evidence)+출처 URL, 모든 주장에 [§n] 근거참조 적용 -->
+| 2026-W40 | 2026-10-04 | 09-28 ~ 10-04 | 3 | [news](outputs/2026-W40/news_2026-10-04.json) · [briefing](outputs/2026-W40/briefing_2026-10-04.md) · [hwpx](outputs/2026-W40/briefing_2026-10-04.hwpx) |
+<!-- W40 브리핑: 날짜·근거 확인된 신규 기사가 예년 대비 적어 3건만 채택(목표 8~15건 미달) — 카테고리 3·4·5는 신규 보도 없음, 근접 기사는 모니터링 대상으로 이동. W39 브리핑: 항목별 근거(evidence)+출처 URL, 모든 주장에 [§n] 근거참조 적용 -->
 
