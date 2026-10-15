@@ -6,7 +6,7 @@
 - 출처: MQ-72C Cargo Helicopter Drone Capabilities Demonstrated For U.S. Army.pdf
 - 원문 URL: 미등록
 - 검증 상태: unverified
-- 수정일: 2026-10-15T23:43:05.312Z
+- 수정일: 2026-10-15T23:43:25.116Z
 
 ## 핵심 요약
 
