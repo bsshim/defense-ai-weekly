@@ -1,0 +1,85 @@
+{
+  "briefing_id": "uam-aam-2026-W42",
+  "collected_at": "2026-10-18",
+  "window": { "from": "2026-10-12", "to": "2026-10-18" },
+  "items": [
+    {
+      "id": 1,
+      "category": 1,
+      "region": "브라질",
+      "title": "에브 에어 모빌리티(엠브라에르), eVTOL 인증 목표 2028년 12월로 재연기·브라질 생산계획 공개",
+      "outlet": "Axios",
+      "date": "2026-10-14",
+      "url": "https://www.axios.com/2026/10/14/embraer-evtol-certification-eve-air-mobility",
+      "summary": "엠브라에르가 대주주인 에브 에어 모빌리티가 eVTOL 'Eve 100'의 인증 목표를 2028년 12월로 제시하고, 브라질 현지에서 연 120대 생산을 시작해 최대 480대까지 확대하는 양산 계획을 공개했다.",
+      "evidence": "\"Eve plans to land certification for its electric vertical takeoff and landing aircraft by December 2028, with production planned in Brazil starting at 120 aircraft a year and a possible expansion to 480.\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "주요 eVTOL 개발사의 인증 일정이 재차 2026~2027년에서 2028년 이후로 밀리는 업계 전반의 지연 흐름을 재확인시킴."
+    },
+    {
+      "id": 2,
+      "category": 2,
+      "region": "UAE·미국",
+      "title": "UAE 교통당국(GCAA), 캘리포니아 현지서 조비·아처 기체 인증 직접 점검·두바이·아부다비 상용화 목표 유지",
+      "outlet": "News Today World",
+      "date": "2026-10-17",
+      "url": "https://newstodayworld.org/breaking-news/2026/10/17/prince-mario-max-schaumburg-lippe-uae-regulator-gets-hands-on-with-joby-and-archer-air-taxis/",
+      "summary": "UAE 민간항공청(GCAA)이 10월 16일 캘리포니아 현지의 조비 에비에이션·아처 에비에이션을 방문해 에어택시 인증·안전성 심사를 직접 진행했으며, 두바이·아부다비 상용 출시 목표는 2026년을 유지한다고 밝혔다.",
+      "evidence": "\"UAE regulator GCAA visited Joby and Archer in California on Oct 16 to review air taxi certification ahead of planned Dubai and Abu Dhabi launches... the launch target remains 2026 for Dubai.\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "해외 항공당국이 미국 현지에서 직접 인증을 점검하는 교차검증 사례로, 상호인증 체계가 실제 상용화 일정에 미치는 영향을 가늠할 수 있음."
+    },
+    {
+      "id": 3,
+      "category": 3,
+      "region": "중국",
+      "title": "中 개정 민용항공법 시행(7.1)으로 무인항공기 인증·거버넌스 법적 기반 강화, 지방정부 저고도경제 보조금은 조정 국면",
+      "outlet": "East Asia Forum",
+      "date": "2026-10-16",
+      "url": "https://eastasiaforum.org/2026/10/16/chinas-low-altitude-economy-takes-off-amid-challenges/",
+      "summary": "동아시아포럼(East Asia Forum) 분석에 따르면 중국의 개정 민용항공법이 2026년 7월 1일부터 시행되며 무인항공기 적합성 인증·거버넌스의 법적 기반이 강화됐고, 항저우 등 일부 지방정부는 저고도경제 보조금 패키지 폐지를 검토하는 등 보조금 중심 지원에서 제도 기반 관리로 전환하는 조정 국면에 들어섰다.",
+      "evidence": "\"the revised Civil Aviation Law... in force since 1 July 2026, strengthening the legal basis for unmanned aircraft airworthiness and governance\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "중국이 저고도경제 육성을 보조금 경쟁에서 법·제도 기반 관리로 전환하는 신호로, 과열된 지방정부 지원 경쟁이 조정될 가능성을 시사."
+    },
+    {
+      "id": 4,
+      "category": 4,
+      "region": "미국",
+      "title": "아처·조비 주가 희비 교차 — 애널리스트 등급조정 이후 인증 리스크 재평가 지속",
+      "outlet": "The Motley Fool",
+      "date": "2026-10-12",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/12/archer-aviation-vs-joby-aviation-which-ev-airplane-stock-is-a-better-buy-in-2026/",
+      "summary": "모틀리풀은 Barclays의 조비(Underweight 하향)·아처(상향) 등급조정 이후 두 종목의 투자 매력도를 비교하는 기사를 10월 12일 게재, 조비는 등급 하향 당일 9% 급락하고 아처는 5% 상승하는 등 투자자들이 인증·양산 리스크를 놓고 엇갈린 평가를 내리고 있다고 분석했다.",
+      "evidence": "\"Joby Aviation (NYSE:JOBY) stock... down 9%... after Barclays cut its rating... Archer Aviation (NYSE:ACHR) stock... up 5%\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "월가가 두 선두 eVTOL 기업의 FAA 인증 지연 가능성을 핵심 변수로 보고 투자의견을 엇갈리게 제시, 상용화 시점 불확실성이 자본시장에 그대로 반영되고 있음을 보여줌."
+    },
+    {
+      "id": 5,
+      "category": 4,
+      "region": "미국",
+      "title": "조비 에비에이션 주가 52주 최저치 근접, FAA 기체 인증이 밸류에이션 핵심 변수로 지목",
+      "outlet": "24/7 Wall St.",
+      "date": "2026-10-13",
+      "url": "https://247wallst.com/investing/2026/10/13/joby-could-be-worth-far-more-if-one-piece-of-the-puzzle-falls-into-place/",
+      "summary": "24/7 월스트리트는 조비 에비에이션 주가가 52주 최저치에 근접한 수준(약 5달러대)까지 하락했으며, 기업가치 반등 여부는 FAA 기체(powered-lift) 인증 획득이라는 단일 변수에 좌우된다고 분석했다.",
+      "evidence": "\"Joby Aviation (NYSE:JOBY) stock is at $5.26... everything depends on one piece of the puzzle: FAA type certification\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "인증 지연 우려가 주가에 본격 반영되며, 상용화 일정 지연이 투자심리·자금조달 환경에 미치는 영향을 보여줌."
+    },
+    {
+      "id": 6,
+      "category": 5,
+      "region": "프랑스·유럽",
+      "title": "eVTOL Insights 유럽 콘퍼런스(툴루즈) 개최 — 지역항공모빌리티·하이브리드 전력계통·인증 현안 논의",
+      "outlet": "eVTOL Insights",
+      "date": "2026-10-15",
+      "url": "https://evtolinsights.com/event/evtol-insights-europe-conference-2026-toulouse-france/",
+      "summary": "eVTOL Insights가 10월 14~16일 프랑스 툴루즈에서 유럽 콘퍼런스를 개최, 10월 15일 메인 행사는 하이브리드 전기항공 기업 어센던스(Ascendance)가 주관했다. 지역항공모빌리티, 드론 배송·물류, AAM 인프라, 인증·규제, 하이브리드 전력계통 등이 주요 의제로 다뤄졌다.",
+      "evidence": "\"14 to 16 October 2026... main conference on Thursday, October 15th, hosted by Ascendance... topics including regional air mobility, drone delivery and logistics, AAM infrastructure, regulation and certification, and hybrid-electric powertrains\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "유럽 eVTOL 생태계가 하이브리드 전력계통·인증 등 기술·제도 현안을 집중 논의하는 자리로, 유럽 업계의 R&D·정책 방향성을 가늠하는 지표가 됨."
+    }
+  ],
+  "excluded_out_of_window": [
+    { "title": "항저우시, 저고도경제 보조금 패키지 폐지 의견수렴(마감 10.7) 추진", "outlet": "SCMP / Bamboo Works", "date": "2026-09-21", "url": "https://www.scmp.com/economy/china-economy/article/3368273/china-first-low-altitude-sector-hits-turbulence-subsidies-face-reality-check", "note": "보도일(9.21 추정)이 7일 창 밖이며 의견수렴 마감(10.7)도 창 밖. 중국 저고도경제 보조금 조정 흐름의 배경으로 지속 모니터링." },
+    { "title": "스카이드라이브, 오사카 146개 옥상 버티포트 설치 계획 발표", "outlet": "Urban Air Mobility News", "date": "2026-10-01", "url": "https://www.urbanairmobilitynews.com/2026/10/", "note": "보도일(10.1)이 7일 수집 창(10.12~10.18) 밖이어서 제외, 지속 모니터링." },
+    { "title": "아처 에비에이션, 보잉 자회사(Wisk·SkyGrid·Insitu) 인수 — HSR 대기기간 만료, 연내 종결 목표", "outlet": "SEC 8-K / 업계 보도", "date": "2026-09-24", "url": "https://www.sec.gov/Archives/edgar/data/0001824502/000182450226000075/achr-20260924.htm", "note": "HSR 대기기간 만료 보도일(9.24)이 7일 창 밖. 거래 종결은 2026년 말 목표로 지속 모니터링 필요." },
+    { "title": "EASA, 2차 'Innovative Air Mobility Implementation Forum' 쾰른 개최 예정(10.27~28)", "outlet": "EASA", "date": "2026-10-27", "url": "https://www.easa.europa.eu/en/newsroom-and-events/events/innovative-air-mobility-implementation-forum", "note": "개최일(10.27~28)이 7일 수집 창(10.12~10.18) 밖. U-space·eVTOL 인증 실무 논의 예정으로 다음 주 이후 모니터링 대상." }
+  ]
+}
