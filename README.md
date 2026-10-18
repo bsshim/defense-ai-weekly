@@ -41,5 +41,6 @@ outputs/
 | 2026-W39 | 2026-09-27 | 09-21 ~ 09-27 | 12 | [news](outputs/2026-W39/news_2026-09-27.json) · [briefing](outputs/2026-W39/briefing_2026-09-27.md) · [hwpx](outputs/2026-W39/briefing_2026-09-27.hwpx) |
 | 2026-W40 | 2026-10-04 | 09-28 ~ 10-04 | 3 | [news](outputs/2026-W40/news_2026-10-04.json) · [briefing](outputs/2026-W40/briefing_2026-10-04.md) · [hwpx](outputs/2026-W40/briefing_2026-10-04.hwpx) |
 | 2026-W41 | 2026-10-11 | 10-05 ~ 10-11 | 8 | [news](outputs/2026-W41/news_2026-10-11.json) · [briefing](outputs/2026-W41/briefing_2026-10-11.md) · [hwpx](outputs/2026-W41/briefing_2026-10-11.hwpx) |
-<!-- W40 브리핑: 날짜·근거 확인된 신규 기사가 예년 대비 적어 3건만 채택(목표 8~15건 미달) — 카테고리 3·4·5는 신규 보도 없음, 근접 기사는 모니터링 대상으로 이동. W39 브리핑: 항목별 근거(evidence)+출처 URL, 모든 주장에 [§n] 근거참조 적용. W41 브리핑: 美해군 X-BAT 투자·우크라이나 AI로봇포탑/AI데이터센터타격·NATO 승리이론·CSIS 중국분석·EU EDA지연보고서·GD-프리모디얼 음성AI 등 5개 카테고리 8건 채택 -->
+| 2026-W42 | 2026-10-18 | 10-12 ~ 10-18 | 11 | [news](outputs/2026-W42/news_2026-10-18.json) · [briefing](outputs/2026-W42/briefing_2026-10-18.md) · [hwpx](outputs/2026-W42/briefing_2026-10-18.hwpx) |
+<!-- W40 브리핑: 날짜·근거 확인된 신규 기사가 예년 대비 적어 3건만 채택(목표 8~15건 미달) — 카테고리 3·4·5는 신규 보도 없음, 근접 기사는 모니터링 대상으로 이동. W39 브리핑: 항목별 근거(evidence)+출처 URL, 모든 주장에 [§n] 근거참조 적용. W41 브리핑: 美해군 X-BAT 투자·우크라이나 AI로봇포탑/AI데이터센터타격·NATO 승리이론·CSIS 중국분석·EU EDA지연보고서·GD-프리모디얼 음성AI 등 5개 카테고리 8건 채택. W42 브리핑: NATO 승리이론 3단계 공식화·헤그세스 자율무기 500억달러대 예산요청·美GAO 책임AI 이행점검·러우 전장AI드론 동시운용·우크라이나 모스크바공항 AI드론계획 미승인·인도 FWD수프림·실드AI-폴란드 X-BAT정비MOU·온다스-팔란티어 레그나AI·우크라이나-NATO JATEC 예측AI 등 5개 카테고리 11건 채택 -->
 

@@ -1,0 +1,158 @@
+{
+  "briefing_id": "defense-ai-2026-W42",
+  "collected_at": "2026-10-18",
+  "window": {
+    "from": "2026-10-12",
+    "to": "2026-10-18"
+  },
+  "items": [
+    {
+      "id": 1,
+      "category": 4,
+      "region": "유럽/NATO",
+      "title": "NATO 유럽연합군최고사령관, 바르샤바안보포럼서 드론·AI 중심 '승리이론' 공개 — '봉쇄·무력화·파괴' 3단계",
+      "outlet": "Euronews / Stripes / Balkan Insight",
+      "date": "2026-10-12",
+      "url": "https://www.euronews.com/2026/10/12/nato-commander-unveils-strategy-to-make-any-attack-on-alliance-utterly-futile",
+      "summary": "NATO 유럽연합군최고사령관(SACEUR) 알렉서스 그린키위치 장군이 10월12일 바르샤바안보포럼에서 '승리이론'을 공식 공개했다. 저비용 드론·소수인력 운용·AI 표적식별을 기반으로 한 '봉쇄(Block)·무력화(Blunt)·파괴(Break)' 3단계 억지개념이다.",
+      "evidence": "'Break' 단계는 적의 공격부대를 지원·통제하는 지휘소·방공체계까지 타격 대상으로 삼으며 칼리닌그라드·상트페테르부르크 인근·벨라루스가 거론됨; 그린키위치 \"NATO는 적에 대한 전략적 패배를 추구하지 않는다\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "지난주 사전 보도됐던 구상이 실제 공개 행사를 통해 공식화되며, 동맹의 저비용 드론·AI 억지전략이 구체적 작전개념(3단계)으로 발전했음을 보여준다."
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "region": "미국",
+      "title": "헤그세스 美국방장관, AUSA서 자율무기 예산 500억~546억달러 요청 공개 — 'Project Agincourt'",
+      "outlet": "AFCEA Signal Media / IBTimes(The National 인용)",
+      "date": "2026-10-14",
+      "url": "https://www.afcea.org/signal-media/dow-army-advance-secretarys-main-priority-autonomy",
+      "summary": "피트 헤그세스 국방장관이 10월14일 AUSA(미육군협회) 연례총회 'Project Agincourt' 패널에서 국방예산 조정요청(reconciliation) 중 약 500억달러를 자율·로봇체계에 투입하겠다고 밝혔다. 2027회계연도 예산에서는 자율전쟁 개발에 546억달러를 별도 요청한 것으로 보도됐다.",
+      "evidence": "\"about $50 billion of the defense reconciliation request... would fund autonomous and robotic systems\"; 헤그세스는 금년 중 수십만 대, 이후 수년간 수백만 대의 일회용 공격체계를 전력화하겠다고 언급 (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "자율전쟁사령부(Autowarcom) 신설 발표(9월30일) 이후 실제 예산 규모가 공개되며, 미군의 자율무기 전력화가 수사가 아닌 대규모 예산집행 단계로 진입했음을 보여준다."
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "region": "미국",
+      "title": "美육군, AI 활용 생물학적 위협 조기탐지 전략 공개 — '2026 육군 생물방어전략'",
+      "outlet": "DefenseScoop",
+      "date": "2026-10-12",
+      "url": "https://defensescoop.com/2026/10/12/army-turning-to-ai-in-its-fight-against-biological-threats/",
+      "summary": "美육군이 AUSA 연례총회 기자간담회에서 '2026 육군 생물방어전략'을 공개했다. 환경·임상·병참·화학·생물·정보 데이터를 AI로 통합분석해 눈에 보이지 않는 신종 질병발생을 조기에 식별하는 것이 핵심이다.",
+      "evidence": "전략 수립에 참여한 앨리슨 타마시 박사 \"a big pivot\"(2021년 전략 대비 큰 전환); 목표는 2035년까지 '생물오염 환경에서도 전개·전투·승리'할 수 있는 역량 확보 (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "AI 적용 분야가 무기체계뿐 아니라 생물방어·헬스시큐리티 영역까지 확장되고 있음을 보여주며, AI가 적의 생물무기 제작 장벽을 낮춘다는 육군의 위협인식과 연결된다."
+    },
+    {
+      "id": 4,
+      "category": 1,
+      "region": "미국",
+      "title": "美 GAO, 국방부 책임 있는 AI 활용 이행 점검 보고서 발표 — 'AI 협의체 1년 가까이 미개최'",
+      "outlet": "GAO (Government Accountability Office)",
+      "date": "2026-10-14",
+      "url": "https://www.gao.gov/products/gao-27-107837",
+      "summary": "美 회계감사원(GAO)이 10월14일 'Artificial Intelligence: Actions and Opportunities to Implement Responsible Use in DOD'(GAO-27-107837) 보고서를 발표했다. 국방부(CDAO) AI 협의체가 2024년말부터 2025년8월까지 거의 열리지 않았다는 점 등을 지적하며, 의회가 국방부에 AI 협업·인력 관련 기존 권고 이행을 지시할 것을 권고했다.",
+      "evidence": "\"CDAO officials said the council did not meet from late 2024 until August 2025\"; 2026년1월 국방부가 속도를 우선시하는 '국방부 AI전략'을 발표했다고 보고서는 명시 (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "대규모 예산 투입(헤그세스 발표)과 별개로, 거버넌스·협업체계 측면에서는 여전히 구조적 공백이 있다는 감사기관의 독립적 평가로, 예산 확대가 곧 실행력 확보를 의미하지 않음을 보여준다."
+    },
+    {
+      "id": 5,
+      "category": 2,
+      "region": "미국",
+      "title": "자율드론 스타트업 론드(Rownd), 美국방부와 1000만달러 계약 체결 — 위스콘신 R&D센터 신설",
+      "outlet": "DroneDJ",
+      "date": "2026-10-14",
+      "url": "https://dronedj.com/2026/10/14/rownd-drone-ai-jobs-wisconsin/",
+      "summary": "국방 자율체계 스타트업 론드가 저비용 자율드론 개발을 위해 美국방부와 1000만달러 규모 계약을 체결했다고 밝혔다. 10월27일 위스콘신주 리치필드에 드론 연구개발센터를 열고 위스콘신·노스캐롤라이나에 22개 일자리를 추가한다.",
+      "evidence": "\"Defense autonomy startup Rownd has secured a $10 million contract with the Department of War... onboard AI lets drones make decisions without constant cloud connectivity\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "클라우드 연결 없이도 자율판단이 가능한 저비용·소모성(attritable) 드론 모델이 중소 스타트업 단위에서도 실제 국방부 계약으로 이어지고 있어, 자율무기 공급망이 대형 방산업체 중심에서 다변화되고 있음을 시사한다."
+    },
+    {
+      "id": 6,
+      "category": 2,
+      "region": "인도",
+      "title": "인도, 자국 최초 AI조종 전투기 프로그램 'FWD 수프림(Supreme)' 실물모형 공개",
+      "outlet": "The Week (India)",
+      "date": "2026-10-14",
+      "url": "https://www.theweek.in/news/defence/2026/10/14/indias-first-ai-piloted-fighter-jet-programme-unveiled-what-makes-fwd-supreme-a-potentially-game-changing-weapon.html",
+      "summary": "인도 스타트업 플라잉웨지(Flying Wedge)가 10월13일 AI조종 전투기 구상 'FWD 수프림'의 실물 크기 정적모형을 공개했다. 중량 1500kg 이상, 탑재량 350kg, 최고속도 마하 0.85급의 'FWD 수프림 헤비'와, 다수 기체가 네트워크로 연계되는 '모빙 독트린(Mobbing Doctrine)' 개념을 함께 제시했다.",
+      "evidence": "\"India's first AI-piloted fighter jet programme\"; 복수의 무인전투기가 그룹으로 연계·협동하는 '모빙 독트린' 개념 공개 (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "美(X-BAT)·中에 이어 인도도 독자 AI조종 무인전투기 프로그램에 착수함으로써, 유무인 복합 공중전력 경쟁이 주요 군사강국 전반으로 확산되고 있음을 보여준다."
+    },
+    {
+      "id": 7,
+      "category": 3,
+      "region": "우크라이나/러시아",
+      "title": "NPR: 러시아·우크라이나 양측 모두 전장서 AI 탑재 드론 운용 중 — 우크라이나 AI영상인식 FPV드론 확산",
+      "outlet": "NPR",
+      "date": "2026-10-12",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5984940/both-russia-and-ukraine-are-using-ai-powered-drones-on-the-battlefield",
+      "summary": "NPR이 10월12일(키이우 특파원 조애나 카키시스) 보도에서, 애완동물용 홈카메라 사업으로 출발한 우크라이나 기업이 이제 AI 영상인식 기능을 FPV 공격드론에 탑재해 공급하고 있다고 전했다. 러시아 역시 AI 드론 전력에서 앞서 있다는 전문가 평가가 병행 보도됐다.",
+      "evidence": "\"Both Russia and Ukraine are using AI-powered drones on the battlefield\"; 관련 보도에서 전문가는 \"러시아가 AI 드론 경쟁에서 앞서 있다\"고 평가 (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "전장 AI 드론의 공급주체가 대형 방산업체가 아닌 민간 스타트업(가전제품→군사AI 전환) 중심으로 재편되고 있으며, 양측 모두의 AI 드론 역량이 소모전 장기화 속에서 동시에 고도화되고 있음을 보여준다."
+    },
+    {
+      "id": 8,
+      "category": 3,
+      "region": "우크라이나/러시아",
+      "title": "젤렌스키, 모스크바 공항 마비용 'AI 드론 1000대/야간' 공세 계획 아직 미승인 — 아틀랜틱 보도",
+      "outlet": "The Atlantic (Meduza 인용보도)",
+      "date": "2026-10-15",
+      "url": "https://meduza.io/en/news/2026/10/15/how-far-will-ukraine-go-to-disrupt-russian-air-travel-zelensky-has-yet-to-approve-a-more-aggressive-plan-involving-ai-guided-drones-the-atlantic-reports",
+      "summary": "아틀랜틱이 10월15일(메두자 인용) 보도한 바에 따르면, 우크라이나가 모스크바 일대 공항을 매일 밤 AI 조종 드론 최대 1000대로 공격해 마비시키는 공세적 계획을 마련했으나 젤렌스키 대통령이 아직 승인하지 않았다. 올해 초부터 준비가 시작됐으나 민항기·승객 피해 우려로 결정이 보류돼 왔다.",
+      "evidence": "\"Zelensky has yet to approve a more aggressive plan involving AI-guided drones\" (스니펫 기준, 원문 미검증); 별도 보도에 따르면 장거리 드론의 간접 영향만으로도 모스크바 공항에서 주당 345건의 결항이 발생",
+      "why_it_matters": "AI 드론의 공격범위·규모가 '군사표적 타격'에서 '적국 민항 인프라 마비'로까지 확장될 수 있는 단계에 이르렀으나, 민간 피해 우려가 정치적 승인의 핵심 변수로 작동하고 있음을 보여준다."
+    },
+    {
+      "id": 9,
+      "category": 4,
+      "region": "미국/폴란드",
+      "title": "실드AI·GE에어로스페이스·폴란드 WZL-2, X-BAT 엔진 정비(MRO) 현지화 MOU 체결",
+      "outlet": "The Defense Post / Janes",
+      "date": "2026-10-12",
+      "url": "https://thedefensepost.com/2026/10/14/ge-shield-ai-poland/",
+      "summary": "실드AI·GE에어로스페이스·폴란드 군용기정비공사(WZL-2)가 10월12일 X-BAT의 F110 엔진 및 추력편향노즐에 대한 현지 정비(MRO) 체계 구축을 위한 양해각서를 체결했다. 9월 실드AI·PGZ·WZL-2 간 X-BAT 설계·생산·정비 협력 의향서(LOI)의 후속 조치다.",
+      "evidence": "\"GE Aerospace, Shield AI, and Poland's WZL-2 signed it on October 12, 2026, to study in-country maintenance, repair, and overhaul for the F110 engine and its thrust-vectoring nozzle on the X-BAT\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "폴란드가 美 AI조종 무인전투기 X-BAT의 생산·정비 거점 역할을 구체화하고 있어, 동유럽 국가가 자국 안보투자를 자율무기 공급망 참여로 전환하는 사례로 주목된다."
+    },
+    {
+      "id": 10,
+      "category": 5,
+      "region": "미국",
+      "title": "온다스·팔란티어, 국방용 '주권 AI' 전담법인 '레그나 AI(Regna AI)' 출범",
+      "outlet": "Ondas/Palantir 공동 보도자료 / Webull",
+      "date": "2026-10-12",
+      "url": "https://ir.ondas.com/press-releases/detail/334/ondas-announces-regna-ai-powered-by-palantir-to-advance",
+      "summary": "드론기업 온다스(Ondas)와 팔란티어가 10월12일 국방·인프라용 '주권 AI' 모델 개발을 위한 독립법인 '레그나 AI'를 공동 출범시켰다. 팔란티어 기술로 구동되며 온다스가 첫 고객으로서 엣지 환경 자율임무 통합(mission orchestration) 모델을 우선 도입한다.",
+      "evidence": "\"a standalone private company, powered by Palantir and bootstrapped by Ondas... customer deployments are expected over the coming months, beginning with intelligence and surveillance applications\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "드론 하드웨어 기업과 AI 플랫폼 기업이 별도 합작법인을 세워 국방용 AI 자체를 사업화하는 모델로, 자율무기체계의 핵심 경쟁력이 플랫폼에서 AI 소프트웨어·데이터 레이어로 이동하고 있음을 보여준다."
+    },
+    {
+      "id": 11,
+      "category": 5,
+      "region": "우크라이나/NATO",
+      "title": "우크라이나·NATO, 러시아 드론공격 예측·포병계획 지원 AI 모델 공동개발 — 빌뉴스 세미나서 발표",
+      "outlet": "The Defense Post / 우크라이나 국방부",
+      "date": "2026-10-15",
+      "url": "https://thedefensepost.com/2026/10/15/ukraine-nato-ai-russian-drones/",
+      "summary": "우크라이나군과 NATO 연합군변혁사령부(ACT)가 NATO-우크라이나 합동분석훈련교육센터(JATEC) 지원 하에 개발한 2개 AI 모델을 빌뉴스에서 열린 3일간 세미나에서 공개했다. 모델13은 전선 인근 러시아 드론공격의 위치·시간·기종을 예측하고, 모델32는 포병 운용계획 후보안을 생성·선별·순위화한다.",
+      "evidence": "\"The solution has already been validated using real-world datasets, has been refined and is ready for integration\"(모델13); 모델32 프로토타입은 우크라이나 부대에 시험용으로 전달됨 (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "동맹-당사국 공동의 AI 전장지원 도구가 시범단계를 넘어 실전부대 시험·통합단계로 진입하며, NATO의 대러 AI 전력 지원이 선언적 수준에서 실무적 협력으로 구체화되고 있음을 보여준다."
+    }
+  ],
+  "excluded_out_of_window": [
+    {
+      "title": "아르마탕AI(Harmattan AI), 2000km 자율 장거리타격 드론 'IRIFI' 공개",
+      "outlet": "Defence Blog / Israel Defense",
+      "date": "2026-10-06",
+      "url": "https://defence-blog.com/french-firm-develops-autonomous-2000-km-strike-drone/",
+      "note": "수집창(10.12~10.18) 6일 전 공개. 위성항법·인간조작 없이 비행하는 프랑스제 장거리 공격드론 — 고객·양산계획 후속 확인 필요"
+    },
+    {
+      "title": "노스롭그루먼 YFQ-48A '탈론 블루' CCA, 지상 자율활주 시험 — CCA Increment 2 경쟁 지속",
+      "outlet": "The Aviationist / Secret Projects",
+      "date": "2026-10-03",
+      "url": "https://theaviationist.com/2026/10/03/northrop-grummans-yfq-48-flies-for-the-first-time/",
+      "note": "수집창 9일 전 보도(전주 모니터링 대상과 동일 사안 지속). CCA Increment 2 요구조건·9개 경쟁사 명단 미공개 상태 지속 — 선정 결과 후속 확인 필요"
+    }
+  ]
+}
