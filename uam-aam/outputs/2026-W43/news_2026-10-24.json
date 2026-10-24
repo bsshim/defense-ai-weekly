@@ -1,0 +1,73 @@
+{
+  "briefing_id": "uam-aam-2026-W43",
+  "collected_at": "2026-10-24",
+  "window": { "from": "2026-10-18", "to": "2026-10-24" },
+  "items": [
+    {
+      "id": 1,
+      "category": 1,
+      "region": "미국",
+      "title": "베타 테크놀로지스, FAA로부터 전동형 수직이착륙기 '승객 탑승' 비행 최초 승인 획득",
+      "outlet": "SUAS News",
+      "date": "2026-10-20",
+      "url": "https://www.suasnews.com/2026/10/beta-becomes-first-company-to-secure-landmark-faa-authorization-to-conduct-flight-operations-with-prospective-customers-in-electric-vtol-aircraft/",
+      "summary": "베타 테크놀로지스가 FAA로부터 전동형 수직이착륙기(eVTOL) 'ALIA A250'에 예비 고객 등 승객을 태우고 비행할 수 있는 '마켓 서베이(market survey)' 특별 운항증명을 받은 최초의 업체가 됐다. 10월 20일 ALIA는 뉴욕 플래츠버그 국제공항에서 수직 이륙해 날개 비행으로 전환한 뒤 버몬트 벌링턴 국제공항에 수직 착륙하며 34해리를 20분에 비행했다.",
+      "evidence": "\"BETA Technologies is the first company to secure a landmark FAA authorization to conduct flight operations with prospective customers in an electric VTOL aircraft... the ALIA took off vertically from Plattsburgh International Airport, transitioned to wing-borne flight, and landed vertically at Burlington International Airport, covering 34 nautical miles in 20 minutes\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "완전 형식인증 전 단계에서도 FAA가 승객 동반 비행을 허용한 최초 사례로, 상용화 전 고객 접점·수익모델 확보를 위한 새로운 규제 경로(Part 21 마켓서베이 인증)를 제시함."
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "region": "미국",
+      "title": "아처 에비에이션, '미드나이트' eVTOL 샌프란시스코 베이 지역 유인 시범비행 실시",
+      "outlet": "FLYING Magazine",
+      "date": "2026-10-19",
+      "url": "https://www.flyingmag.com/archer-midnight-air-taxi-san-francisco-bay-demos/",
+      "summary": "아처 에비에이션이 '노 로즈(No Roads)' 비행 투어의 북부 캘리포니아 일정을 마무리하며 오클랜드 국제공항을 거점으로 샌프란시스코 베이 지역 상공에서 유인 시범비행을 실시했다. 3일간 7개 도시를 비행하며 최고 131마일/h 속도로 200마일 이상을 비행했다.",
+      "evidence": "\"Midnight flew into seven cities over three days, reaching top speeds of 131mph and covering more than 200 miles... the current Midnight prototype (N703AX) has not yet demonstrated the crucial vertical-to-forward flight transition\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "시범비행에 사용된 기체가 활주로 이륙·착륙 방식으로, 핵심인 수직-전진비행 전환 시연은 별도 기체(N704AX)로 남아있어 완전한 수직이착륙 상용 인증까지의 기술적 과제가 여전함을 보여줌."
+    },
+    {
+      "id": 3,
+      "category": 2,
+      "region": "미국",
+      "title": "美 교통부·FAA, 뉴멕시코주서 eIPP 6번째 실증 비행 발표 — 하이브리드 전기화물기 활용",
+      "outlet": "FAA (U.S. DOT)",
+      "date": "2026-10-20",
+      "url": "https://faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-announces-new-mexicos-first-advanced-air",
+      "summary": "미 교통부 장관 션 더피가 앨버커키시 항공국과 릴라이어블 로보틱스가 진행한 뉴멕시코주 최초의 eVTOL 통합 시범프로그램(eIPP) 비행을 발표했다. 릴라이어블의 원격조종 하이브리드 전기 세스나 208B 카라반으로 화물 배송 시연을 진행했으며, 뉴멕시코는 9월 말 노스캐롤라이나에 이어 6번째 eIPP 실증 지역이 됐다.",
+      "evidence": "\"Led by the City of Albuquerque Aviation Department, New Mexico is the sixth location to launch under the Department's initiative, following North Carolina in late September... testing cargo deliveries using Reliable's remotely piloted Cessna 208B Caravan\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "미국의 eIPP 실증이 승객용 eVTOL보다 하이브리드 전기 화물기 중심으로 지역을 넓혀가는 단계적 상용화 전략을 보여주며, 향후 FAA 규정 설계에 쓰일 데이터 축적이 가속화됨을 시사."
+    },
+    {
+      "id": 4,
+      "category": 4,
+      "region": "글로벌",
+      "title": "글로벌 eVTOL 시장 2026~2031년 전략 전망 보고서 — 인증·이중용도 수요·버티포트 투자가 성장 견인",
+      "outlet": "GlobeNewswire (Persistence Market Research)",
+      "date": "2026-10-22",
+      "url": "https://www.globenewswire.com/news-release/2026/10/22/3386615/28124/en/global-evtol-market-size-share-and-strategic-forecast-2026-2031-certification-dual-use-demand-and-vertiport-investments-driving-massive-growth.html",
+      "summary": "시장조사기관 퍼시스턴스 마켓 리서치가 10월 22일 'Global eVTOL Market Size, Share, and Strategic Forecast 2026-2031' 보고서를 발표, 기체 인증 진전·민군 이중용도(dual-use) 수요·버티포트 투자가 향후 시장 성장의 핵심 동력이라고 분석했다.",
+      "evidence": "제목 \"Global eVTOL Market Size, Share, and Strategic Forecast 2026-2031: Certification, Dual-Use Demand, and Vertiport Investments Driving Massive Growth\" (스니펫 기준, 원문 미검증). 동일 기관의 2월 보고서는 2026년 시장 규모를 약 14억 달러, 2033년 80.8억 달러(CAGR 28.5%)로 추정.",
+      "why_it_matters": "민간·국방 겸용 수요가 시장 성장 전망의 주요 변수로 공식 언급되며, 추정치가 보고서마다 큰 편차를 보여 상업화 지연 리스크를 시장조사기관들도 가격에 반영하지 못하고 있음을 시사."
+    },
+    {
+      "id": 5,
+      "category": 4,
+      "region": "미국",
+      "title": "월가의 eVTOL 낙관론에도 FAA 인증은 2027년 중반 이후 지연 가능성 제기",
+      "outlet": "The Motley Fool",
+      "date": "2026-10-23",
+      "url": "https://www.fool.com/investing/2026/10/23/wall-street-thinks-the-evtol-sector-is-ready-for/",
+      "summary": "모틀리풀이 \"Wall Street Thinks the eVTOL Sector Is Ready for Takeoff. Here's Why I Don't.\"라는 제목의 10월 23일 칼럼에서, 걸프뉴스 보도를 인용해 eVTOL의 FAA 형식인증이 빨라도 2027년 중반에야 가능할 것이라고 지적했다. 동시에 주요 eVTOL 종목 주가는 올해 들어 46~92% 하락한 상태라고 분석했다.",
+      "evidence": "\"Wall Street Thinks the eVTOL Sector Is Ready for Takeoff. Here's Why I Don't.\"... citing Gulf News saying eVTOLs might not achieve U.S. certification with the FAA until mid-2027 at the earliest... major eVTOL stocks have been on a roller-coaster ride, losing between 46% and 92% of their value so far in 2026\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "증권가의 낙관적 투자심리와 실제 인증 일정·주가 성과 사이의 간극이 커, 인증 지연이 반복될 경우 자금조달 환경이 급격히 악화될 리스크를 보여줌."
+    }
+  ],
+  "excluded_out_of_window": [
+    { "title": "EASA, 2차 'Innovative Air Mobility Implementation Forum' 쾰른 개최 예정(10.27~28)", "outlet": "EASA", "date": "2026-10-27", "url": "https://www.easa.europa.eu/en/newsroom-and-events/events/innovative-air-mobility-implementation-forum", "note": "개최일(10.27~28)이 7일 수집 창(10.18~10.24) 밖. U-space·VTOL·무인기 실무 논의 예정으로 다음 주 이후 모니터링 대상(2주 연속 모니터링)." },
+    { "title": "SAE 'eVTOL Technology USA' 콘퍼런스 개최 예정(10.28~29)", "outlet": "SAE International", "date": "2026-10-28", "url": "https://www.patsnap.com/resources/blog/articles/urban-air-mobility-battery-patents-surge-in-2026/", "note": "개최일(10.28~29)이 7일 수집 창 밖. 배터리 기술 관련 발표 예정으로 다음 주 모니터링 대상." },
+    { "title": "버티컬 에어로스페이스, 넥스트 단계 자금조달 위해 제프리스 자문 선임·전략적 대안 검토 착수", "outlet": "Businesswire", "date": "2026-09-24", "url": "https://secure.businesswire.com/news/home/20260924714708/en/Vertical-Aerospace-Announces-Review-of-Strategic-Alternatives-to-Support-Next-Phase-of-Development-Appoints-Jefferies-as-Financial-Advisor", "note": "발표일(9.24)이 7일 창 밖이나, 검토 결과가 아직 나오지 않아 지속 모니터링 필요." },
+    { "title": "이항(EHang), 사고 여파로 허페이 유료 상업비행 승인 지연 지속", "outlet": "MarketBeat / Vietcetera", "date": "2026-08-25", "url": "https://www.marketbeat.com/instant-alerts/transcript-ehang-q2-earnings-call-highlights-2026-08-25/", "note": "Q2 실적 발표(8.25) 기준 정보로 7일 창 밖. 허페이 상업화 승인 여부를 지속 모니터링." }
+  ]
+}
