@@ -1,0 +1,98 @@
+{
+  "briefing_id": "defense-ai-2026-W43",
+  "collected_at": "2026-10-25",
+  "window": { "from": "2026-10-19", "to": "2026-10-25" },
+  "items": [
+    {
+      "id": 1,
+      "category": 1,
+      "region": "미국",
+      "title": "펜타곤, 4성 '자율전쟁사령부(AUTOWARCOM)' 추진 공문 공개",
+      "outlet": "NewsNation (AllSides 보도)",
+      "date": "2026-10-21",
+      "url": "https://www.allsides.com/news/2026-10-21-0700/defense-and-security-exclusive-pentagon-letter-outlines-new-four-star-autonomous-warfare-command",
+      "summary": "NewsNation이 입수한 국방부 공문에 따르면, 9월 30일 발표된 자율전쟁사령부(AUTOWARCOM) 창설 구상이 4성 장군이 지휘하는 조직으로 구체화되고 있으며, 2027년 10월 가동을 목표로 추진 중이다.",
+      "evidence": "\"NewsNation obtained the letter in advance of its Wednesday release ... lays out goals and a path toward the command, which will be led by a four-star general.\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "9월 말 발표에 그쳤던 구상이 구체적 공문·조직설계 단계로 진입하며, 자율전쟁사령부 창설이 실제 제도화 절차에 들어갔음을 보여준다."
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "region": "미국",
+      "title": "美GAO, 국방부 책임AI 인가직위 10개 중 3개만 충원 — 이행공백 재확인",
+      "outlet": "Military Times (Stars and Stripes 동반보도)",
+      "date": "2026-10-21",
+      "url": "https://www.militarytimes.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
+      "summary": "지난주 공개된 美GAO 보고서(10/14, GAO-27-107837)를 후속보도한 밀리터리타임스는 국방부 최고디지털AI책임관(CDAO) 산하 책임AI 담당 인가직위 10개 중 3개만 충원됐고, 책임AI전략·이행경로상 64개 과제 중 29개가 미완료 상태라고 전했다.",
+      "evidence": "\"Pentagon's Chief Digital and AI Office had filled only three of its 10 authorized positions for responsible AI work as of February 2026\" / \"29 of 64 efforts outlined in the Defense Department's Responsible AI Strategy and Implementation Pathway remained incomplete\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "예산 확대(500억달러대 자율무기 투자)와 거버넌스 실행력 간 격차가 구체적 인력 수치로 재확인되며, 책임AI 체계 정비의 시급성이 부각된다."
+    },
+    {
+      "id": 3,
+      "category": 3,
+      "region": "우크라이나",
+      "title": "러시아 드론, 키이우-오데사 고속도로 인근 차바니 타격 — 3명 사망",
+      "outlet": "Ukrainska Pravda",
+      "date": "2026-10-20",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/20/8058860/",
+      "summary": "키이우주 차바니에서 러시아 드론이 키이우-오데사 고속도로 인근 쇼핑센터 부근을 타격해 차량들이 화재에 휩싸였고, 검찰 잠정 집계로 3명 사망·4명 부상했다.",
+      "evidence": "\"A drone hit near the Kyiv-Odesa highway ... preliminary figures were three killed and four injured\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "출퇴근 시간대 민간 고속도로를 겨냥한 타격으로, AI 내비게이션·대(對)재밍 기능을 갖춘 러시아 샤헤드·제르베라 계열 드론의 위협이 민간 인프라까지 확장되고 있음을 보여준다."
+    },
+    {
+      "id": 4,
+      "category": 3,
+      "region": "우크라이나",
+      "title": "키이우 홀로시이우 주유소 인근 드론 추락 — 1명 사망",
+      "outlet": "Ukrainska Pravda",
+      "date": "2026-10-20",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/20/8058869/",
+      "summary": "차바니 타격과 같은 날, 키이우 홀로시이우 지구 주유소 인근에 드론이 추락해 1명이 사망하고 6명이 부상했다.",
+      "evidence": "\"Drone crashes near petrol station in Kyiv, killing one and injuring six\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "하루 동안 키이우 일대에서 복수의 드론 타격이 동시 발생해, 공습 범위가 도심 지역까지 확장되는 패턴을 재확인시킨다."
+    },
+    {
+      "id": 5,
+      "category": 3,
+      "region": "우크라이나",
+      "title": "키이우주 학생 기숙사·생산시설 피격 — 1명 사망",
+      "outlet": "Ukrainska Pravda",
+      "date": "2026-10-21",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/21/8059025/",
+      "summary": "10월 21일 러시아의 공격으로 키이우주 학생 기숙사와 생산시설에 화재가 발생, 1명이 사망하고 1명이 부상했다.",
+      "evidence": "\"One killed and one injured in Russian attack on Kyiv Oblast: student accommodation and production building ablaze\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "10/20~21 이틀간 키이우 일대 연속 피격으로 최소 5명이 사망해, 전장 드론의 민간 피해 위험이 이번 주에도 지속되고 있음을 시사한다."
+    },
+    {
+      "id": 6,
+      "category": 3,
+      "region": "미국/우크라이나",
+      "title": "머스크, 우크라이나 스타링크 속도 제한 지시 — 드론 작전 차질",
+      "outlet": "Honolulu Star-Advertiser (WSJ 인용)",
+      "date": "2026-10-20",
+      "url": "https://www.staradvertiser.com/2026/10/20/breaking-news/musk-reportedly-ordered-starlink-slowdown-that-hurt-ukraines-drone-missions/",
+      "summary": "월스트리트저널을 인용한 보도에 따르면 일론 머스크가 스페이스X에 우크라이나 스타링크 단말 속도 제한을 지시해 공격·방어용 드론 임무 수행에 차질이 발생했으며, 머스크는 '속도·용량 제한은 美 군·대통령이 결정한다'고 주장했다.",
+      "evidence": "\"a slowdown in SpaceX's Starlink network disrupted Ukraine's drone operations this week after Elon Musk ordered the move\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "AI 기반 드론 작전의 상당 부분이 상용 위성 통신망에 의존하는 구조적 취약성이 드러나, 민간 인프라 제공업체의 결정이 전장 무인체계 가동률을 좌우할 수 있음을 보여준다."
+    },
+    {
+      "id": 7,
+      "category": 4,
+      "region": "불가리아/유럽",
+      "title": "소피아 국제세미나 \"드론·AI가 국방을 지배한다\" — 전문가 전망",
+      "outlet": "BTA (불가리아 국영통신)",
+      "date": "2026-10-21",
+      "url": "https://www.bta.bg/en/news/992782-drones-and-ai-dominate-defence-experts",
+      "summary": "소피아 중앙군인클럽에서 열린 국제세미나 '차세대 글로벌 안보의 전환적 계기들'에서 국제드론방어협회장 스타이코 토팔로프와 불가리아과학아카데미 즐라토고르 민체프 교수가 자율AI의 지배적 역할 확대를 전망하며 드론 안전표준 제정 필요성을 강조했다.",
+      "evidence": "\"'Autonomous artificial intelligence will begin to dominate,' said Associate Professor Zlatogor Minchev\" (스니펫 기준, 원문 미검증; 세미나 날짜는 보도 사진 캡션(10/22) 기준 역산 추정)",
+      "why_it_matters": "중견국(불가리아)에서도 자율AI 드론 안전표준·전문 학위과정 신설 논의가 시작되며, 자율무기 확산 대응이 강대국을 넘어 유럽 전반의 거버넌스 과제로 확장되고 있음을 보여준다."
+    }
+  ],
+  "excluded_out_of_window": [
+    { "title": "GAO-27-107837 원본 보고서 공개", "outlet": "GAO", "date": "2026-10-14", "url": "https://www.gao.gov/products/gao-27-107837", "note": "지난주(W42) 브리핑에서 이미 다룬 원본 보고서. 이번 주 Military Times/Stripes/OPB 후속보도만 신규 채택." },
+    { "title": "美육군, 미래·자율체계사령부(FASCOM) 창설", "outlet": "Breaking Defense/Defense News", "date": "2026-10-13", "url": "https://breakingdefense.com/2026/10/laneve-redesignates-armys-futures-and-concepts-command-as-new-fascom-autonomy-command/", "note": "창설 메모(10/1)·AUSA 발표(10/12~13)가 모두 수집창 밖. 다음 주 진행상황 확인 필요." },
+    { "title": "Shield AI, $200억 밸류에이션 펀딩 라운드 협상", "outlet": "The Information 보도 재인용", "date": "2026-09-14", "url": "https://www.itiger.com/news/1154756795", "note": "협상 보도 시점이 수집창 밖. 라운드 종료 여부 다음 주 확인 필요." },
+    { "title": "Rownd, 위스콘신 리치필드 드론 R&D센터 개소 예정", "outlet": "DroneDJ/Govly", "date": "2026-10-27", "url": "https://dronedj.com/2026/10/14/rownd-drone-ai-jobs-wisconsin/", "note": "개소 예정일이 수집창 이후(10/27). 계약 보도(10/14)도 창 밖. 다음 주 개소식 결과 확인 필요." },
+    { "title": "NSPM-11 국방부 자율무기지침(DoDD 3000.09) 90일 개정 시한 경과", "outlet": "Washington Examiner 등 종합", "date": "2026-09-03", "url": "https://www.washingtonexaminer.com/?p=4707794", "note": "6/5 서명 메모의 90일 시한(9/3) 경과 후에도 개정판 공개 여부 미확인. 후속 공개 시 다음 주 수집 대상." }
+  ]
+}
