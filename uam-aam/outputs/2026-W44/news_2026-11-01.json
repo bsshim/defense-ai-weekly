@@ -1,0 +1,50 @@
+{
+  "briefing_id": "uam-aam-2026-W44",
+  "collected_at": "2026-11-01",
+  "window": { "from": "2026-10-26", "to": "2026-11-01" },
+  "items": [
+    {
+      "id": 1,
+      "category": 3,
+      "region": "미국",
+      "title": "FAA, 헬리포트·버티포트 통합 설계기준 초안(AC 150/5390-4) 공개 — DroneXL 10월 26일 보도",
+      "outlet": "DroneXL",
+      "date": "2026-10-26",
+      "url": "https://dronexl.co/2026/10/26/faa-draft-vertiport-design-standards-ac-150-5390-4/",
+      "summary": "FAA가 10월 22일 공개한 헬리포트·버티포트 통합 설계기준 초안 'AC 150/5390-4, Vertical Flight Aircraft Infrastructure Design'을 DroneXL이 10월 26일 보도했다. 기존 헬리포트 설계기준(AC 150/5390-2D)과 임시 버티포트 가이드(EB 105A)를 하나의 문서로 통합하며, 의견수렴 마감은 2027년 1월 11일, 최종안은 2027년 여름 발표 예정이다.",
+      "evidence": "\"The FAA posted a draft advisory circular on October 22 that merges its heliport design standard and its interim vertiport guidance into one document, AC 150/5390-4, Vertical Flight Aircraft Infrastructure Design... Comments are due January 11, 2027, and the FAA says final standards follow in summer 2027.\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "헬리포트·버티포트 설계기준을 하나의 문서로 통합함으로써 미국 내 eVTOL 인프라 구축의 표준화가 가속될 수 있으며, 무인(파일럿리스) 기체 기준은 추가 연구 후 별도 마련한다는 점에서 유인 기체가 인프라 규정의 수혜를 먼저 받을 전망이다."
+    },
+    {
+      "id": 2,
+      "category": 2,
+      "region": "미국",
+      "title": "아처 에비에이션, 텍사스 트라이앵글(오스틴·댈러스·휴스턴) 에어택시 네트워크 계획 — 교통혼잡 이슈와 함께 재조명",
+      "outlet": "Spectrum News Austin",
+      "date": "2026-10-27",
+      "url": "https://spectrumlocalnews.com/austin/news/2026/10/27/texas-transportation-tech",
+      "summary": "아처 에비에이션이 10월 23일 발표한 오스틴·댈러스·휴스턴 3개 에어택시 네트워크 계획을, 스펙트럼뉴스 오스틴이 텍사스교통부(TxDOT)의 2025년 교통혼잡 구간 조사 결과와 연계해 10월 27일 보도했다. 오스틴 네트워크는 오스틴-버그스트롬 국제공항·오스틴 이그제큐티브 공항과 서킷오브디아메리카스 헬기장을 연결하는 구상이다.",
+      "evidence": "\"A TxDOT study showing Austin, Houston, and Dallas-Fort Worth hold the state's 10 most congested road segments in 2025... [then covers] Archer Aviation's plan for an air taxi network in Austin, Dallas, and Houston\" (스니펫 기준, 원문 미검증). FAA 형식인증은 아직 미획득 상태이며 승객 서비스 개시일은 확정되지 않음.",
+      "why_it_matters": "극심한 도로 혼잡을 겪는 텍사스 3대 도시가 에어택시 수요 실증 사례로 부각되며, 완전 인증 전 단계에서도 지역 언론이 교통난 해소책으로 UAM을 연계 보도하는 흐름이 강화되고 있음을 보여준다."
+    },
+    {
+      "id": 3,
+      "category": 3,
+      "region": "유럽",
+      "title": "EASA, 제2회 '혁신항공모빌리티(IAM) 이행 포럼' 쾰른에서 개최(10.27~28)",
+      "outlet": "EASA",
+      "date": "2026-10-27",
+      "url": "https://www.easa.europa.eu/en/newsroom-and-events/events/innovative-air-mobility-implementation-forum",
+      "summary": "EASA가 'From rules to reality: accelerating Innovative Air Mobility in Europe'를 주제로 10월 27~28일 쾰른 본부에서 하이브리드(현장+온라인) 포럼을 개최했다. U-space 간소화, eVTOL 인증·운항 개시, BVLOS·국경간 UAS 운항 등을 다루며 버티컬 에어로스페이스, Eve, Ascendance, Pipistrel, 레오나르도 헬리콥터 등이 연사로 참여했다.",
+      "evidence": "\"the second edition of the Forum is meant to focus on practical implementation... Topics include U-space simplification, eVTOL certification and entry into service, BVLOS and cross-border UAS operations\" (스니펫 기준, 원문 미검증). 포럼 직후 시점 기준 구체적 세션 결론·신규 규정 발표는 아직 공개되지 않음.",
+      "why_it_matters": "EASA가 '규정에서 실행으로'라는 구호로 유럽 eVTOL 상용화 준비가 다음 단계로 진입했음을 공식화했으나, 실질적 성과는 포럼 종료 후속 보도로 확인이 필요해 다음 주 모니터링 대상이다."
+    }
+  ],
+  "excluded_out_of_window": [
+    { "title": "베타 테크놀로지스, FAA 마켓서베이 인증 획득 후 서프에어모빌리티와 하와이 유료 운항 추진", "outlet": "FLYING Magazine / Aviation Week", "date": "2026-10-20", "url": "https://www.flyingmag.com/?p=308401", "note": "인증·1차 비행은 10.20~21로 7일 수집 창(10.26~11.1) 밖이며 전주 브리핑에서 이미 다룸. 서프에어모빌리티와의 하와이 상용 운항 추진은 후속 모니터링 대상." },
+    { "title": "이항(EHang), 말레이시아 민간항공청(CAAM)과 샌드박스 협력 체결", "outlet": "Bernama / ASDNews", "date": "2026-10-21", "url": "https://asdnews.com/news/aerospace/2026/10/21/ehang-caam-announce-sandbox-cooperation-advanced-air-mobility-malaysia-deepening-its-presence-southeast-asias-lowaltitude-economy", "note": "발표일(10.21)이 수집 창 밖. 동남아 저고도경제 확장 흐름의 일부로 지속 모니터링." },
+    { "title": "버티컬 에어로스페이스, 아처 에비에이션 상대 특허침해 반소 제기(美 텍사스 동부지법)", "outlet": "AIN FutureFlight / StreetInsider", "date": "2026-10-06", "url": "https://backend.ainonline.com/aviation-news/futureflight/2026-02-24/archer-sues-evtol-rival-vertical-patent-infringement", "note": "반소 제기일(10.6)이 수집 창 밖. 소송 결과가 양사 인증·양산 일정에 영향을 줄 수 있어 지속 모니터링." },
+    { "title": "국토교통부, K-UAM 그랜드챌린지 개편한 '네오 그랜드챌린지' 추진(상용화 예산 1500억원)", "outlet": "전자신문(단독)", "date": "2026-10-05", "url": "https://www.etnews.com/20261005000033", "note": "단독 보도일(10.5)이 수집 창 밖이며 아직 공식 발표 전 가칭 단계. 공모·세부 일정 확정 시 주요 항목으로 다룰 예정." },
+    { "title": "KT, 인천광역시·항공우주산학융합원과 인천 도서지역 공공형 UAM 실증 완료(영종도~덕적도~왕산마리나)", "outlet": "한국경제 / 대한항공 보도자료", "date": "2026-10-21", "url": "https://www.hankyung.com/article/202510225457g", "note": "실증 비행(10.20)·보도(10.21) 모두 수집 창 밖. 공공형 UAM 서비스 확대·상용화 추진 계획은 후속 모니터링 대상." }
+  ]
+}
