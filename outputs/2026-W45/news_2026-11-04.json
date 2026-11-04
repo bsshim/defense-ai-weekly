@@ -218,13 +218,13 @@
       "category_name": "AI 무인기 / 자율무기체계",
       "region": "프랑스",
       "title": "佛 DGA, 에어버스 U010 Aliaca 수직이착륙(VTOL)형 인증 — 캐터펄트·회수망 없이 소형 함정 운용",
-      "outlet": "Airbus (actu-aero·Baird Maritime 교차확인)",
+      "outlet": "Airbus Helicopters (2026-11-03 공식 발표)",
       "date": "2026-11-03",
       "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-french-armament-general-directorate-dga-qualifies-airbus-u010-aliaca-drone",
-      "summary": "프랑스 방위사업청(DGA)이 5~6월 육상·해상 시험을 거쳐 에어버스 헬리콥터스 U010 Aliaca 전술 드론의 VTOL형을 인증해 해군 SMDM(함정 탑재 미니드론) 사업 실전 배치 길을 열었다. VTOL형은 발사대·회수망이 필요 없어 갑판이 좁은 지원함에서도 운용할 수 있다.",
-      "evidence": "DGA 발주 34개 시스템(시스템당 2기) 중 VTOL형 8개, 첫 2개 시스템 2026년 9월 인도(actu-aero, 11/03) · Baird Maritime(10/30)은 잔여 7개를 VTOL형으로 보도 — 수량 상이 · 탑재 대상: 본토·해외 지원구난함(BSAM·BSAOM) · 고정익형과 지상국·소프트웨어 공용 · 전기형 최대 3시간/50km, 하이브리드형 최대 6시간/100km(Baird)",
+      "summary": "Airbus는 2026년 11월 3일 U010 Aliaca VTOL형이 DGA 인증을 받았다고 발표했다. 5~6월 육상·해상 시험을 거쳤으며 첫 2개 시스템은 9월 프랑스 해군에 인도됐다고 설명했다. 총 주문 34개 시스템(시스템당 드론 2기) 중 8개 시스템을 VTOL형으로 구성한다고 밝혔다.",
+      "evidence": "11월 3일 Airbus 발표: 총 34개 시스템 중 VTOL형 8개 시스템, 시스템당 드론 2기, 첫 2개 시스템 9월 인도. 10월 29일 Airbus 소개자료는 27개 시스템 인도 후 남은 7개 시스템을 VTOL형으로 공급한다고 설명한다. 두 발표의 7개/8개 차이 원인은 확인되지 않았다. 단위는 기체 대수가 아닌 시스템 수이며 1대 추가 주문으로 단정하지 않는다.",
       "why_it_matters": "함정 탑재 소형 무인기가 '발사·회수 장비 없는 VTOL' 형태로 소형 함정까지 확산되고 있어, 함정 규모와 무관한 상시 해상 감시 수요가 커지고 있다.",
-      "verification": "Airbus 원문 자동 접근 차단(봇 방어) — actu-aero(https://actu-aero.fr/2026/11/03/la-dga-qualifie-la-version-vtol-du-drone-aliaca-dairbus-pour-la-marine-nationale/), Baird Maritime(10/30)로 교차 확인. VTOL형 수량 8개 vs 7개 보도 상이"
+      "verification": "2026-11-04 Airbus 공식 발표 본문 직접 확인. 주 출처는 2026-11-03 발표이며 수량은 이 발표의 8개 시스템을 인용. 비교 출처: Airbus 2026-10-29 https://www.airbus.com/en/newsroom/stories/2026-10-the-u010-aliaca-drone-goes-vertical (잔여 7개 시스템). 두 공식 자료의 수량 차이는 미해소. 기업 발표를 확인한 것이며 DGA 독립 교차확인·성능 검증 완료를 의미하지 않는다."
     },
     {
       "id": 14,
