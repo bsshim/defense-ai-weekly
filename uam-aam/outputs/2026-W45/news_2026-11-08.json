@@ -1,0 +1,97 @@
+{
+  "briefing_id": "uam-aam-2026-W45",
+  "collected_at": "2026-11-08",
+  "window": { "from": "2026-11-02", "to": "2026-11-08" },
+  "items": [
+    {
+      "id": 1,
+      "category": 1,
+      "region": "미국",
+      "title": "조비 에비에이션, 2026년 3분기 실적 발표 — FAA 인증 5단계(최종) '포 크레딧' 시험 진행 및 美 공군 자율비행 계약 3700만달러로 확대",
+      "outlet": "Joby Aviation (IR)",
+      "date": "2026-11-04",
+      "url": "https://www.jobyaviation.com/news/joby-reports-third-quarter-2026-financial-results",
+      "summary": "조비 에비에이션이 2026년 3분기 매출 5500만달러를 발표하며 연간 매출 전망을 15% 상향(1.35억~1.4억달러)했고, FAA 형식인증 5단계(최종)의 '포 크레딧' 시험이 진행 중이라고 밝혔다. 같은 날 AFWERX를 통한 美 공군 자율비행 계약도 거의 3700만달러로 확대됐다고 발표했다.",
+      "outlet_region": "미국",
+      "evidence": "\"Joby reported $55 million in revenue for the third quarter... raised its full-year revenue outlook by 15%, to a range of $135 million to $140 million\" · \"Wide range of 'for credit' testing completed as part of fifth and final stage of FAA type certification\" · \"The Air Force's total commitment through AFWERX has reached nearly $37 million\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "경쟁사(아처) 대비 FAA 인증 최종 단계 선점과 매출 성장이 동시에 확인되며 미국 eVTOL 상용화 레이스에서 조비의 우위가 재확인됨"
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "region": "미국",
+      "title": "베타 테크놀로지스, 2026년 3분기 실적 발표 — 수주잔고 40억달러·A250 마켓서베이 인증 유지·eIPP 7개 중 6개 비행 중",
+      "outlet": "AIN FutureFlight",
+      "date": "2026-11-03",
+      "url": "https://www.ainonline.com/aviation-news/futureflight/2026-11-03/beta-focusing-electric-airplane-sales-cargo-medical",
+      "summary": "베타 테크놀로지스가 3분기 매출 1770만달러(전년 대비 98% 증가)로 2026년 매출 전망을 5200만~5700만달러로 상향했다. 상업용 수주잔고는 1040대·40억달러를 넘었고, FAA eVTOL 통합 파일럿 프로그램(eIPP) 7개 과제 중 6개에서 비행 중이라고 밝혔다.",
+      "evidence": "\"Q3 revenue was $17.7 million, up 98% year over year\" · \"commercial backlog is above $4 billion, covering 1,040 aircraft in firm orders and options\" · \"Beta has begun flying in six of its seven projects under the FAA's eVTOL Integration Pilot Program (eIPP)\" · \"advancing an $830 million financing package for manufacturing and vertical-integration expansion\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "A250에 대한 세계 최초 eVTOL 마켓서베이 특별운항증명 유지와 대규모 수주잔고 확보로, 미국 eVTOL 업계의 상업화 체력이 입증되는 사례"
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "region": "영국",
+      "title": "버티컬 에어로스페이스, 전 FLIR CEO 앤드류 타이크를 이사회에 영입 — 국방·이중용도 사업 확대 포석",
+      "outlet": "Finviz (press release wire)",
+      "date": "2026-11-02",
+      "url": "https://finviz.com/news/412949/vertical-aerospace-appoints-defence-technology-pioneer-and-former-flir-ceo-andrew-teich-to-its-board-of-directors",
+      "summary": "버티컬 에어로스페이스(NYSE: EVTL)가 전 FLIR CEO이자 現 美 국방부 자문역인 앤드류 타이크를 이사회에 선임했다. 회사는 이번 인선을 국방·이중용도(dual-use) 응용 확대 전략의 일환으로 설명했다.",
+      "evidence": "\"Vertical Aerospace (NYSE: EVTL) added Andrew Teich, a former FLIR CEO, to its board... framed the appointment as part of a push toward defence and dual-use applications\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "민수 인증·자금조달 지연 속에 영국 eVTOL 기업이 국방·이중용도 시장으로 사업축을 다변화하는 흐름을 보여줌 (버티컬은 9월부터 전략적 대안 검토 진행 중)"
+    },
+    {
+      "id": 4,
+      "category": 2,
+      "region": "미국",
+      "title": "위스크 에어로, 캘리포니아 할리스터 공항에 자율 eVTOL 시험용 버티포트 개장",
+      "outlet": "AIN FutureFlight",
+      "date": "2026-11-03",
+      "url": "https://www.ainonline.com/aviation-news/futureflight/2026-11-03/wisk-opens-vertiport-autonomous-evtol-testing",
+      "summary": "보잉 자회사 위스크 에어로가 할리스터 지방공항(KCVH)에 100x100피트 규모의 버티포트를 개장하고, 무인(파일럿리스) Gen 6 eVTOL과 대용(代用) 헬기를 이용한 GPS 음영·저시정 착륙 시험을 시작했다. 운영 데이터는 FAA eIPP에 반영될 예정이다.",
+      "evidence": "\"opened a 100-by-100-foot vertiport at Hollister Municipal Airport (KCVH) in California to test landing and navigation systems for autonomous aircraft\" · \"Wisk will feed data from the vertiport's operations into the FAA's eVTOL Integration Pilot Program (eIPP)\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "무인 eVTOL 운항을 위한 실제 공역 기반 저시정·GPS 음영 시험이 본격화되며, 자율비행 인증·인프라 표준화 경쟁이 가속되고 있음을 시사"
+    },
+    {
+      "id": 5,
+      "category": 2,
+      "region": "한국·일본",
+      "title": "스카이드라이브·버티·고양시, DRONE-UAM EXPO 2026서 3자 MOU — 2028년 상업 운항 목표",
+      "outlet": "ASDNews",
+      "date": "2026-11-04",
+      "url": "https://asdnews.com/news/aerospace/2026/11/04/skydrive-signs-mou-with-goyang-special-city-verty-accelerate-commercial-evtol-deployment-south-korea",
+      "summary": "일본 스카이드라이브, 한국 버티, 고양특례시가 11월 4~6일 킨텍스에서 열린 'DRONE-UAM EXPO 2026' 기간 중 3자 MOU를 체결했다. 스카이드라이브는 기체, 버티는 운영·인프라 통합, 고양시는 대도시 실증 거점을 맡아 2028년까지 상업용 eVTOL 서비스를 목표로 한다.",
+      "evidence": "\"SkyDrive가 Goyang Special City, Verty와 3자 양해각서(MOU)를 체결\" · \"행사가 KINTEX에서 11월 4일부터 6일까지 열렸다\" · \"2028년까지 상업용 eVTOL 서비스 준비를 목표\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "K-UAM 그랜드챌린지 대도시 실증지로 지정된 고양시가 해외 기체 제작사(스카이드라이브)와 국내 운영사(버티)를 묶어 버티포트 테스트베드·상업화 로드맵을 구체화한 사례"
+    },
+    {
+      "id": 6,
+      "category": 4,
+      "region": "영국",
+      "title": "스카이플라이, 개인용 eVTOL 'Axe' 인증 추진에 1000만달러 시드 투자 유치",
+      "outlet": "General Aviation News",
+      "date": "2026-11-04",
+      "url": "https://generalaviationnews.com/2026/11/04/skyfly-raises-10-million-for-personal-evtol-certification/",
+      "summary": "영국 스카이플라이가 2인승 개인용 eVTOL 'Axe'의 인증·생산 추진을 위해 1000만달러 시드 투자를 유치했다. HICO 인베스트먼트 그룹 주도로 방산 벤처펀드 아르카인젤이 참여한 것으로 알려졌다.",
+      "evidence": "\"A General Aviation News item dated November 4, 2026 reports a $10 million seed round to move its two-seat Axe aircraft toward certified production\" · \"seed round was led by specialist growth equity investor HICO Investment Group, with defence-tech fund Archangel\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "대형 상용 eVTOL 외에 개인용(라이트스포츠급) eVTOL 시장에도 초기 투자가 꾸준히 유입되며, FAA MOSAIC 규정 시행 이후 세분화된 투자 테마가 형성되고 있음을 보여줌"
+    },
+    {
+      "id": 7,
+      "category": 5,
+      "region": "중국",
+      "title": "CATL-블루벡터, eVTOL 'Skyla V30' 전용 배터리 공동개발 전략 협약 체결",
+      "outlet": "CnEVPost",
+      "date": "2026-11-02",
+      "url": "https://cnevpost.com/2026/11/02/catl-evtol-partnership-blue-vector/",
+      "summary": "中 배터리 기업 CATL이 6인승 틸트로터 eVTOL 'Skyla V30'을 개발 중인 블루벡터와 전략·제품 협력 협약을 체결, CATL이 전용 항공용 배터리를 공동개발하는 독점 배터리 파트너가 됐다. Skyla V30은 지난 8월 하얼빈에서 실물 시연기(A/C01)가 공개됐으며 해외 선주문을 포함해 100건 이상의 사전계약을 확보한 상태다.",
+      "evidence": "\"Blue Vector choosing CATL as its exclusive battery partner. CATL will custom-develop aviation power-battery products for the SKYLA V30\" · \"full-scale technology demonstrator, A/C01, rolled out in Harbin on August 31, 2026... more than 100 pre-sales orders, including its first overseas orders\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "중국 배터리 공급망이 저가 양산형 eVTOL뿐 아니라 중형 틸트로터급 기체까지 전용 배터리 개발로 확장하며, 중국 eVTOL 산업의 수직계열화가 심화되고 있음을 시사"
+    }
+  ],
+  "excluded_out_of_window": [
+    { "title": "아처 에비에이션, 2026년 3분기 실적 발표 예정 (11월 9일 장 마감 후)", "outlet": "Archer Aviation (IR)", "date": "2026-11-09", "url": "https://investors.archer.com/news/news-details/2026/Archer-To-Report-Third-Quarter-2026-Operating-Update-and-Financial-Results-on-November-9th-2026/default.aspx", "note": "수집 창(11.2~11.8) 밖(11.9 발표 예정) — 다음 주 핵심 모니터링 대상, 조비와의 인증·수주 경쟁 비교 필요" },
+    { "title": "FAA, 헬리포트·버티포트 통합 설계기준(AC 150/5390-4) 가상 Industry Day 개최 (11월 10일)", "outlet": "DroneLife", "date": "2026-10-23", "url": "https://dronelife.com/2026/10/23/faa-vertiport-design-standards-2026/", "note": "설계기준 초안 보도(10.22)는 창 밖이나 Industry Day가 11.10 예정 — 의견수렴(~2027.1.11) 경과 확인 필요" },
+    { "title": "이항, 베트남·말레이시아·스리랑카서 11월 중 검증비행·샌드박스 개시 예정", "outlet": "ASDNews", "date": "2026-10-30", "url": "https://asdnews.com/news/aerospace/2026/10/30/ehang-establishes-overseas-regional-hub-thailand-support-international-evtol-deployment-across-southeast-asia-other-emerging-markets", "note": "발표일(10.30)은 창 밖이나 실제 비행이 11월 중 예정 — 동남아 eVTOL 샌드박스 확산 동향으로 다음 주 재확인 필요" }
+  ]
+}
