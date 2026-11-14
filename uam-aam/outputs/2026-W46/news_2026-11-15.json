@@ -1,0 +1,72 @@
+{
+  "briefing_id": "uam-aam-2026-W46",
+  "collected_at": "2026-11-15",
+  "window": { "from": "2026-11-09", "to": "2026-11-15" },
+  "items": [
+    {
+      "id": 1,
+      "category": 1,
+      "region": "미국",
+      "title": "조비·아처 에비에이션, 미국 내 첫 여객 상업비행 목표를 2027년으로 재조정",
+      "outlet": "AIN FutureFlight",
+      "date": "2026-11-10",
+      "url": "https://www.ainonline.com/aviation-news/futureflight/2026-11-10/joby-and-archer-push-evtol-passenger-flights-2027",
+      "summary": "조비 에비에이션과 아처 에비에이션이 미국 내 초기 유인 여객 상업비행 목표를 2027년으로 재조정했다. 조비는 FAA 시험비행사의 인증 비행 착수 여부에 일정이 좌우되며, 아처는 미드나이트 기체의 호버-전진비행 전환 유인 시험을 포함해 50시간의 추가 비행시험이 필요하다고 밝혔다.",
+      "evidence": "\"Joby chief policy officer Greg Bowles told investors in the company's third quarter earnings call on November 4\" that FAA test pilots must begin certification flights before service can start · \"Midnight must also log 50 hours of flight testing before Archer can seek market survey approval for vertical flight, Archer president of aircraft OEM Benjamin Lyon said during the company's November 9 earnings call\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "미국 유인 eVTOL 양강이 동시에 상용화 일정을 2027년으로 늦추면서, 2025~2026년 상용화를 전제로 체결된 해외 파트너십·투자 일정에도 보수적 재검토가 필요함을 시사"
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "region": "미국",
+      "title": "아처 에비에이션, 2026년 3분기 실적 발표 — FAA 마켓서베이 특별운항증명 획득으로 LA 운항길 열려, 보잉 인수 마무리 임박",
+      "outlet": "Archer Aviation (IR)",
+      "date": "2026-11-09",
+      "url": "https://investors.archer.com/news/news-details/2026/Archer-Announces-Q3-2026-Results-Receives-FAA-Market-Survey-Certificate-Unlocking-LA-Operations-and-Boeing-Deal-Close-Imminent/default.aspx",
+      "summary": "아처 에비에이션이 2026년 3분기 매출 약 510만달러, 순손실 2억7460만달러(조정 EBITDA 손실 1억7850만달러)를 발표했다. 동시에 미드나이트 기체에 대한 FAA 마켓서베이 특별운항증명을 획득해 LA28 올림픽을 앞둔 유인 운항 길을 열었고, 보잉의 위스크·인사이투·스카이그리드 인수 절차도 마무리 단계에 있다고 밝혔다.",
+      "evidence": "\"Revenue of about $5.1 million... Net loss was $274.6 million, and Adjusted EBITDA was a loss of $178.5 million\" · \"an FAA Market Survey Special Airworthiness Certificate for Midnight, which unlocks piloted operations in Los Angeles ahead of eIPP and LA28 Games\" · \"the Boeing acquisition of Wisk, Insitu, and SkyGrid is nearing close\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "매출 성장은 여전히 정체됐지만 FAA 마켓서베이 증명 획득으로 LA28을 겨냥한 실제 유인 운항 레퍼런스를 확보했고, 보잉 인수를 통한 자율비행·국방 사업 확장도 가속화될 전망"
+    },
+    {
+      "id": 3,
+      "category": 2,
+      "region": "중국",
+      "title": "이항, 환톈싼주 국제항공구조와 공중·지상 구조 협력 프레임워크 체결",
+      "outlet": "CAPA (Centre for Aviation) / Urban Air Mobility News",
+      "date": "2026-11-09",
+      "url": "https://centreforaviation.com/news/ehang-and-huantian-international-air-rescue-partner-for-air-ground-rescue-solutions-1378927",
+      "summary": "중국 이항이 제9회 광저우 비즈니스항공박람회 및 2026 항공의료구조대회 기간 중 환톈싼주 국제항공구조와 비구속적 협력 프레임워크 협약을 체결했다. 단거리 환자 이송부터 광역·도시간·국경간 구조까지 단계별 eVTOL 응급구조 역량을 공동 모색하기로 했다.",
+      "evidence": "\"EHang has signed a non-binding cooperation framework agreement with Huantian Sanjiu International Air Rescue at the 9th Guangzhou Business Aviation Expo and the 2026 Aviation Medical Rescue Conference\" · \"aim to explore layered rescue capabilities spanning short-range patient transfers, regional rescue, and intercity and cross-border transport\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "eVTOL이 기존 헬기·고정익 응급의료 전용기 체계와 결합한 '계층형 응급구조망' 모델로 확장되며, 중국 저고도경제의 공공서비스 응용이 상업 여객운항 이전부터 구체화되고 있음을 시사"
+    },
+    {
+      "id": 4,
+      "category": 3,
+      "region": "한국",
+      "title": "국토교통부, 'Neo K-UAM 그랜드챌린지' 추진 — 실증사업 개편 설명회 개최",
+      "outlet": "파이낸스스코프(finance-scope.com)",
+      "date": "2026-11-09",
+      "url": "https://www.finance-scope.com/article/view/scp202611090014",
+      "summary": "국토교통부가 UAM 실증사업을 '기술실증 고도화'와 '지역상용화 실증'의 두 축으로 개편하는 'Neo K-UAM 그랜드챌린지(Neo GC)'를 추진한다고 9일 밝혔다. 참여를 희망하는 지방정부·기업·연구기관을 대상으로 11월 10일 서울에서 사업 설명회를 열었다.",
+      "evidence": "\"국토부는 이달 10일 서울에서 지방정부와 기업, 연구기관 등을 대상으로 사업 설명회를 개최한다고 9일 밝혔다\" · \"기존 UAM 안전성 및 운항 관련 실증사업을 기술실증 고도화와 지역상용화 실증의 두 축으로 개편\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "그랜드챌린지가 단일 기술실증 중심에서 지역 상용화까지 포괄하는 체계로 확장되며, 지자체·기업의 참여 문턱과 선정 기준이 향후 K-UAM 상용화 속도를 가르는 핵심 변수가 될 전망"
+    },
+    {
+      "id": 5,
+      "category": 4,
+      "region": "미국",
+      "title": "실적 발표 앞두고 아처 주가 5%·조비 4%·이항 3% 동반 상승",
+      "outlet": "247wallst.com",
+      "date": "2026-11-09",
+      "url": "https://247wallst.com/investing/2026/11/09/archer-aviation-advances-5-ahead-of-earnings-joby-climbs-4-ehang-gains-3/",
+      "summary": "아처 에비에이션이 3분기 실적 발표를 앞두고 주가가 약 5% 올라 4.66달러를 기록했고, 조비 에비에이션은 4%, 이항은 3% 동반 상승했다. 중간선거 이후 성장주로 자금이 재유입되는 전반적 증시 반등 속에 주요 eVTOL 종목들이 동반 강세를 보였다.",
+      "evidence": "\"Archer rose about 5% to $4.66\" ahead of its report · \"Joby also climbed\" · \"U.S. stocks are staging a broad rally, with money flowing back into growth shares after last week's post-midterm selloff\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "실적 발표를 앞둔 동반 강세는 eVTOL 섹터 전반에 대한 투자심리가 FAA 인증 지연 우려보다 아직 낙관쪽에 기울어 있음을 시사하며, 실적 발표 후 변동성 확대 가능성에 유의할 필요"
+    }
+  ],
+  "excluded_out_of_window": [
+    { "title": "이항, 2026년 3분기 실적 발표 예정(11월 19~26일경, 매체별 날짜 불일치)", "outlet": "Earnings Whispers/TipRanks/RTTNews", "date": "2026-11-26", "url": "https://beta.earningswhispers.com/go/w/EH", "note": "발표 예정일이 매체별로 11.19~11.26으로 엇갈림 — 다음 주 재확인 필요, 조비·아처 대비 중국 측 실적 비교 대상" },
+    { "title": "아처 에비에이션, 보잉 위스크·인사이투·스카이그리드 인수 — 연내 종결 목표(종결일 미확정)", "outlet": "Archer Aviation / Aviation Week", "date": "2026-08-10", "url": "https://backend.ainonline.com/aviation-news/futureflight/2026-08-10/archer-acquire-wisk-insitu-and-skygrid-boeing", "note": "8월 10일 발표된 인수합병 — 양사는 2026년말 종결을 목표로 한다고 밝혔으나 11월 현재 종결 보도는 확인되지 않음, 반독점 심사 경과 모니터링 필요" },
+    { "title": "에어로바이런먼트, 최대 9.4억달러 규모 美 국방 IDIQ 계약 체결(초기 집행 약 3.15억달러)", "outlet": "Business Wire / The Defense Post", "date": "2026-11-09", "url": "https://thedefensepost.com/2026/11/11/aerovironment-us-defense-contract/", "note": "11.9 발표·11.11 보도로 수집 창 안이나, 계약 대상 체계가 P550 eVTOL과 연계된다는 보도는 사진 설명에만 등장하고 회사가 직접 확인하지 않음 — 신뢰도 낮아 본문에서 제외, 확인되면 다음 주 반영" }
+  ]
+}
