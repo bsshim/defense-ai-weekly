@@ -1,0 +1,110 @@
+{
+  "briefing_id": "defense-ai-2026-W47",
+  "collected_at": "2026-11-22",
+  "window": { "from": "2026-11-16", "to": "2026-11-22" },
+  "items": [
+    {
+      "id": 1,
+      "category": 4,
+      "region": "국제(스위스 제네바)",
+      "title": "CCW 제7차 검토회의 폐막 — 자율살상무기(LAWS) 법적 구속력 협상 개시 실패, 2년간 '비구속 문서 마련' 절차만 합의",
+      "outlet": "ICRC / Manila Times / Anews",
+      "date": "2026-11-21",
+      "url": "https://www.manilatimes.net/2026/11/21/tmt-newswire/autonomous-weapons-icrc-warns-that-states-must-act-now-to-preserve-meaningful-human-control-over-the-use-of-force/2475408",
+      "summary": "11월16~20일 제네바에서 열린 특정재래식무기금지협약(CCW) 제7차 검토회의가 자율살상무기(LAWS)에 대한 법적 구속력 있는 조약 협상 개시에 실패하고, 향후 2년간 비구속적 '국제 문서'를 마련하는 절차에만 합의한 채 11월20일 폐막했다.",
+      "evidence": "\"The ICRC regrets that the Seventh Review Conference of the Convention on Certain Conventional Weapons (CCW) failed to agree to a clear and immediate negotiation mandate for a legally binding instrument to regulate autonomous weapons systems... the CCW has now agreed to launch the elaboration of an international instrument on lethal autonomous weapon systems, which should be conducted over the next two years.\" UN disarmament chief Izumi Nakamitsu은 이를 '의미 있는 성과'라 평가했으나 한계도 인정했다. (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "13년간 이어진 CCW 논의가 또다시 구속력 있는 협상 개시에 실패하면서, 자율무기 국제규범 공백이 최소 2년 더 지속될 전망이다."
+    },
+    {
+      "id": 2,
+      "category": 3,
+      "region": "러시아·우크라이나",
+      "title": "우크라이나, 러시아 본토 대규모 드론 공습 — 러시아 측 '드론 1,300여 기 요격' 주장, 개전 이래 최대 규모 중 하나",
+      "outlet": "AJC / CP24 (AP 보도 인용)",
+      "date": "2026-11-16",
+      "url": "https://www.cp24.com/news/world/2026/11/16/russia-says-its-air-defences-intercept-over-1300-ukrainian-drones-in-massive-aerial-attack",
+      "summary": "11월16일 러시아 국방부는 우크라이나가 발사한 드론 1,300여 기(일부 보도는 1,441기)를 자국 방공망이 요격했다고 주장했다. 개전 이후 최대 규모의 드론 공습 중 하나로 평가됐다.",
+      "evidence": "\"Russia's defense ministry said it intercepted 1,441 Ukrainian drones overnight on November 17, which it described as the largest such attack since the full-scale invasion began.\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "우크라이나의 장거리 드론 공세가 러시아 본토 전역으로 상시화되며, 양측 모두 AI 기반 대량 드론전 수행·방어 역량이 핵심 변수로 고착되고 있음을 보여준다."
+    },
+    {
+      "id": 3,
+      "category": 3,
+      "region": "우크라이나",
+      "title": "러시아, 우크라이나에 드론·미사일 연이틀 공습 — 11/20 136기 중 106기, 11/20야간~21 2차 115기 중 95기 요격",
+      "outlet": "Interfax-Ukraine / Ukrinform",
+      "date": "2026-11-20",
+      "url": "https://www.ukrinform.net/rubric-ato/4060704-air-defense-forces-intercept-106-out-of-136-russian-drones.html",
+      "summary": "우크라이나 공군은 11월20일 러시아가 샤헤드·게르베라 등 드론 136기를 발사해 106기를 격추·무력화했으며(16개 지역 피격), 같은 날 저녁 2차로 발사된 115기 중에서도 95기를 21일 오전까지 격추·무력화했다고 밝혔다.",
+      "evidence": "\"Ukraine's Air Force reported 136 Shahed, Gerbera type strike UAVs and drones of other types... Air defenses reportedly shot down or suppressed 106 UAVs... 29 strike drone impacts were recorded at 16 locations.\" / 2차 공습은 \"115 Shahed and Gerbera strike UAVs... air defenses had downed or suppressed 95 by 9:00 a.m. on November 21.\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "러시아의 연이은 드론 공세가 하루 2차 공습 형태로 상시화되며 우크라이나 방공 자원의 연속 소모를 압박하고 있다."
+    },
+    {
+      "id": 4,
+      "category": 2,
+      "region": "미국·독일",
+      "title": "美육군 173공수여단, 무인차량서 드론 18기 자율 군집타격 실사격 시험 — 독일 그라펜뵈어",
+      "outlet": "DroneXL / GlobalDefenseCorp",
+      "date": "2026-11-16",
+      "url": "https://dronexl.co/2026/11/16/us-army-swarm-drones-r3negade-unmanned-ground-vehicle-germany/",
+      "summary": "독일 그라펜뵈어 훈련장에서 美육군 173공수여단이 DEVCOM 군수사령부의 R3NEGADE 무인지상차량에서 드론 18기로 구성된 군집을 발사해 표적을 자율적으로 타격하는 실사격 시험을 수행했다(시연 11/12, 보도 11/16~18). TRV-150 연막탄 투하, 재블린 무장 로봇 등도 함께 시험됐다.",
+      "evidence": "\"A R3NEGADE unmanned ground vehicle emerged from a shipping container and launched an 18-drone autonomous swarm. The drones conducted a coordinated strike autonomously against the target.\" 다만 한 분석은 \"evidence of a tested launch and autonomous strike concept, not proof of effectiveness against a sophisticated military opponent\"라고 지적했다. (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "무인차량 탑재형 자율 군집드론의 실사격 타격 개념이 실증되며, 지상전력의 소모성 드론 통합 전술이 구체화되고 있다."
+    },
+    {
+      "id": 5,
+      "category": 2,
+      "region": "한국·미국",
+      "title": "한·미 공동 MANOWAR AI 음향탐지 대드론망, 캠프 험프리스·백이리 시험서 90%대 신뢰도 기록",
+      "outlet": "Seoulz / Army Recognition",
+      "date": "2026-11-16",
+      "url": "https://www.seoulz.com/news/us-army-tests-ai-acoustic-counter-drone-network-south-korea",
+      "summary": "美 501정보여단과 한국 육군이 공동 진행한 Project MANOWAR(저가 음향 센서 기반 대드론망) 야외시험에서 저고도 위협 탐지 신뢰도가 90%대를 기록했다고 보도됐다. 3D프린팅 섀시의 음향센서가 분산 메시망을 이뤄 FPV 드론 등을 탐지·분류한다.",
+      "evidence": "\"MANOWAR system achieved over 90% window-level confidence against low-altitude threats during trials.\" Army Recognition은 \"the reported confidence figure does not establish a verified detection-success rate\"라며 공식 프로그램화 여부는 미확정이라고 지적했다. (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "저비용 음향 AI 센서 기반 대드론망이 동맹 연합시험에서 실증되며, 북한 소형무인기 대응체계 설계에 참고 사례가 된다."
+    },
+    {
+      "id": 6,
+      "category": 4,
+      "region": "한국·미국",
+      "title": "한화시스템, 美 리벨리온 인더스트리즈에 단거리 AESA 드론탐지 레이다 첫 수출 계약",
+      "outlet": "연합뉴스",
+      "date": "2026-11-18",
+      "url": "https://www.koreajoongangdaily.com/business/hanwha-antidrone-radar-to-enter-us-market-with-pilot-export-deal/12979276",
+      "summary": "한화시스템이 11월18일 미국 방산업체 리벨리온 인더스트리즈와 최대 10km 거리의 공중표적(드론 등)을 탐지하는 단거리 AESA 레이다 수출 계약을 체결했다고 밝혔다. 초기 적용처는 정유시설·데이터센터 등 민간 인프라이며, 2027년 초까지 순차 납품하고 대규모 후속계약도 논의 중이다.",
+      "evidence": "\"한화시스템은 미국 첨단 방산업체 리벨리온 인더스트리즈와 '단거리 능동형 위상배열(AESA) 레이다' 수출 계약을 체결했다고 18일 밝혔다... 최대 10㎞ 거리의 공중 표적을 탐지하는 제품이다.\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "국내 AESA 레이다 기술이 중동에 이어 미국 드론탐지 민간·안보 시장까지 진출하며 국산 대드론 센서의 수출경쟁력을 보여준다."
+    },
+    {
+      "id": 7,
+      "category": 4,
+      "region": "일본",
+      "title": "일본 방위성, '방위 AI 비전' 정책 신설 추진 — 인간 의사결정권 유지를 핵심 원칙으로",
+      "outlet": "Asia News Network",
+      "date": "2026-11-17",
+      "url": "https://asianews.network/japans-defence-ministry-to-adopt-defence-ai-vision-policy-starting-this-month/",
+      "summary": "고이즈미 신지로 일본 방위상은 11월17일 '방위 AI 비전'이라는 새 정책을 이달 말까지 확정할 계획이라고 밝혔다. 인간의 의사결정권 유지를 핵심 원칙으로 제시했으며, 항공자위대 자동 공중감시·통제체계에 AI를 내년 3월부터 적용할 예정이다.",
+      "evidence": "\"Defense Minister Shinjiro Koizumi announced plans to revise Japan's defense AI policy, which the ministry aims to finalize by the end of November... naming keeping human decision-making authority as a key priority. AI will also be incorporated into the Japan Air Self-Defense Force's automated air surveillance and control system in March next year.\" (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "일본이 자율무기 완전배제·인간통제 원칙을 명문화하면서도 AI 지휘통제 적용은 가속화해, 한국의 국방AI 거버넌스 설계에 비교 참고사례가 된다."
+    },
+    {
+      "id": 8,
+      "category": 5,
+      "region": "우크라이나·미국",
+      "title": "Al Jazeera — 스타쉴드(Starshield) 속도제한이 우크라이나의 제트추진 드론 요격·AI 표적지정 역량 저해",
+      "outlet": "Al Jazeera",
+      "date": "2026-11-16",
+      "url": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones",
+      "summary": "우크라이나군의 드론 요격·AI 표적지정 체계는 2024년 12월부터 스페이스X의 스타쉴드 위성망에 의존해왔는데, 최근 속도 제한으로 전선 작전에 '심각한 차질'이 발생했다고 젤렌스키 대통령이 밝혔다. 특히 제트추진 드론처럼 빠른 반응이 필요한 표적 대응에 타격이 크다는 분석이다.",
+      "evidence": "\"Ukraine's military has been relying on the internet service since December 2024 to intercept Russian drones... Starshield helps encrypt satellite links used to guide drones.\" 우크라이나 당국자는 \"100% of affected military missions fail\"라 주장했고 스페이스X는 변경 사실을 부인했다. (스니펫 기준, 원문 미검증)",
+      "why_it_matters": "AI 기반 드론 요격·표적지정체계가 해외 위성통신 인프라에 종속될 경우 안보주권 리스크로 직결될 수 있음을 보여준다."
+    }
+  ],
+  "excluded_out_of_window": [
+    { "title": "코난테크놀로지, 전출처 정보융합분석 플랫폼 '아르고-X(Argo-X)' 첫 공개 — 국방AI서밋 2026", "outlet": "ZDNet Korea / 아이뉴스24", "date": "2026-11-13", "url": "https://zdnet.co.kr/view?no=20261113102516", "note": "11/13 보도로 수집 창(11/16~22) 밖, 12월 정식 출시 예정 — 다음 주 모니터링" },
+    { "title": "中, 대만 주변 서태평양서 미공개 대규모 군사훈련('구역거부' 훈련) 실시", "outlet": "Honolulu Star-Advertiser / ChinaGlobalSouth", "date": "2026-11-13", "url": "https://www.staradvertiser.com/2026/11/13/breaking-news/china-stages-unannounced-pacific-drills-in-intimidation-of-taiwan/", "note": "11/10~13 보도로 수집 창 밖, 드론 운용 여부 불명확 — 후속 확인 필요" },
+    { "title": "NATO 'Drone Edge' 대드론 장비 카탈로그(16개 체계) 가동 개시", "outlet": "i-scoop.eu 등 종합", "date": "2026-11-05", "url": "https://www.i-scoop.eu/alta-ares-nato-counter-drone-marketplace/", "note": "11/5 보도로 수집 창 밖" },
+    { "title": "AUTOWARCOM(자율전쟁사령부) 4성 지휘관 인선 — 여전히 미정", "outlet": "DefenseScoop 등 종합", "date": "2026-10-20", "url": "https://www.realcleardefense.com/us-army/articles/autowarcom-is-heading-for-a-command-and-control-collision-2026-10-20", "note": "지속 모니터링 대상, 11월 중 인선 결과 미확인" },
+    { "title": "美 NDAA 2027 자율무기 AI 조항 — 상원 본회의 표결 보류 지속", "outlet": "Arms Control Association 등 종합", "date": "2026-07-15", "url": "https://thedefensepost.com/2026/07/15/us-senate-military-ai-rules/", "note": "7월 이후 상원 표결 일정 미확인, 지속 모니터링" }
+  ]
+}
